@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2017.1.30)  5 FEB 2017 21:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2017.1.30)  5 FEB 2017 23:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1353,7 +1353,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 {c:/usr/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]) (.
 /install.tex [4]
-<figures/nhelloworld.png, id=266, 1445.4pt x 813.0375pt>
+<figures/nhelloworld.png, id=271, 1445.4pt x 813.0375pt>
 File: figures/nhelloworld.png Graphic file (type png)
 
 <use figures/nhelloworld.png>
@@ -1366,7 +1366,7 @@ LaTeX Font Info:    Try loading font information for LUC+nanumgt on input line
 (c:/usr/texlive/2016/texmf-dist/tex/latex/nanumtype1/lucnanumgt.fd
 File: lucnanumgt.fd 2013/02/12 v0.1 Nanum Gothic font definitions
 )
-<figures/helloworld.png, id=284, 1445.4pt x 813.0375pt>
+<figures/helloworld.png, id=289, 1445.4pt x 813.0375pt>
 File: figures/helloworld.png Graphic file (type png)
 
 <use figures/helloworld.png>
@@ -1386,7 +1386,7 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 116.
  [8]) (./text.tex
-[9] <example/examplepdf.pdf, id=338, 597.50829pt x 845.0471pt>
+[9] <example/examplepdf.pdf, id=343, 597.50829pt x 845.0471pt>
 File: example/examplepdf.pdf Graphic file (type pdf)
 
 <use example/examplepdf.pdf>
@@ -1397,7 +1397,7 @@ File: example/examplepdf.pdf Graphic file (type pdf)
 Package pdftex.def Info: example/examplepdf.pdf used on input line 41.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 
-<example/examplepdf.pdf, id=341, page=1, 597.50829pt x 845.0471pt>
+<example/examplepdf.pdf, id=346, page=1, 597.50829pt x 845.0471pt>
 File: example/examplepdf.pdf Graphic file (type pdf)
 
 <use example/examplepdf.pdf, page 1>
@@ -1423,25 +1423,25 @@ File: example/examplepdf.pdf Graphic file (type pdf)
 Package pdftex.def Info: example/examplepdf.pdf, page1 used on input line 41.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [11 <./example/examplepdf.pdf>] [12])
-(./advanced.tex) (./appendix.tex [13]) [14]
+(./advanced_1.tex) (./advanced_2.tex) (./appendix.tex [13]) [14]
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 25.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 25.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 26.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 26.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 25.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 25.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 26.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 26.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: C56DCF17C8930A37DD1BA27D308752CA;1768.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 25.
+(rerunfilecheck)             Checksum: 4AA10AEE9FA31A3071496A022CB3A9C2;1854.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 26.
  ) 
 Here is how much of TeX's memory you used:
- 23125 strings out of 493013
- 376237 string characters out of 6135157
- 559314 words of memory out of 5000000
- 26065 multiletter control sequences out of 15000+600000
- 59153 words of font info for 203 fonts, out of 8000000 for 9000
+ 23134 strings out of 493013
+ 376403 string characters out of 6135157
+ 559317 words of memory out of 5000000
+ 26069 multiletter control sequences out of 15000+600000
+ 59456 words of font info for 204 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,18n,48p,10420b,750s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{Hfootnote.10} has been referenced but does not ex
@@ -1562,10 +1562,10 @@ ts/type1/public/nanumtype1/nanummjmd4.pfb><c:/usr/texlive/2016/texmf-dist/fonts
 ype1/public/nanumtype1/nanummjmd6.pfb><c:/usr/texlive/2016/texmf-dist/fonts/typ
 e1/public/nanumtype1/nanummjmd7.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1
 /uhc/umj/umj02.pfb>
-Output written on main.pdf (14 pages, 4497517 bytes).
+Output written on main.pdf (14 pages, 4498651 bytes).
 PDF statistics:
- 1020 PDF objects out of 1200 (max. 8388607)
- 714 compressed objects within 8 object streams
- 69 named destinations out of 1000 (max. 500000)
- 331 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1025 PDF objects out of 1200 (max. 8388607)
+ 719 compressed objects within 8 object streams
+ 70 named destinations out of 1000 (max. 500000)
+ 339 words of extra memory for PDF output out of 10000 (max. 10000000)
 
