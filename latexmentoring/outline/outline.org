@@ -1,0 +1,42 @@
+#+LATEX_HEADER: \usepackage{kotex}
+* TeX 멘토링 자료 outline
+** intro
+latex이 무엇인가?
+왜 latex을 쓰는가?
+기본적인 내용만 다루겠다.
+** install
+latex은 어떻게 설치하고, 어떻게 시작하지?
+초보자의 눈에서 천천히 하나씩
+** start
+문서 작성을 시작하자
+시작하려면 기본을 알아야지
+** 기능을 하나씩 알아보기
+여기서는 제작에 꼭 필요한 기능들만
+주의할점? toc 여러번컴파일 필요할수도
+environment가 꼬여서 연결되면안된다. 안에들어가는건 상관없는데 겹치는건안됨
+명령어 구분방식?
+명령어 사이에는 스페이스를 넣던지 해야됨 안그럼 하나로인식함
+
+** 기능을 더 구체적으로 알아보기
+documentclass에는 뭐가 있지? 각 documentclass의 역할은?(표를 뒤로 뺄까)
+oblivoir 강조해주기
+글씨크기, a4paper 옵션
+*** standalone, exam class 설명
+*** 다양한 기본 기능 알아보기
+*글씨크기
+*verbatim
+*정렬(center, flushleft, flushright)
+*는 굳이 설명안해도될듯
+label & reference
+citation은 따로 설명하지 않겠다.
+**** 수식넣기
+가장 중요
+*** 다양한 package 알아보기
+geometry
+indentfirst
+setspace
+amsmath
+*** 표만들기 & 그림넣기
+tabular & graphicx
+예시넣어서 설명해주기
+*** 새로운명령어정의하기
