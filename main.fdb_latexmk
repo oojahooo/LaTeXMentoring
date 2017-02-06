@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1486336809 "C:\Users\oojah\Documents\GitHub\LaTeXMentoring\main.tex" "C:\Users\oojah\Documents\GitHub\LaTeXMentoring/main.pdf" "main" 1486337938
+["pdflatex"] 1486336809 "C:\Users\oojah\Documents\GitHub\LaTeXMentoring\main.tex" "C:\Users\oojah\Documents\GitHub\LaTeXMentoring/main.pdf" "main" 1486338844
   "C:\Users\oojah\Documents\GitHub\LaTeXMentoring/main.aux" 1486336810 86 fa944f2b4d98edaf6ff37f4c3e74578a ""
   "C:\Users\oojah\Documents\GitHub\LaTeXMentoring\main.tex" 1486332770 727 e9703742f79c09e8df094cf75e31fc85 ""
   "c:/Users/oojah/Documents/GitHub/LaTeXMentoring/main.tex" 1486332770 727 e9703742f79c09e8df094cf75e31fc85 ""
@@ -99,9 +99,9 @@
   "main.aux" 1486336810 86 fa944f2b4d98edaf6ff37f4c3e74578a ""
   "main.out" 1486332770 1870 4aa10aee9fa31a3071496a022cb3a9c2 ""
   (generated)
-  "C:\Users\oojah\Documents\GitHub\LaTeXMentoring/main.pdf"
-  "C:\Users\oojah\Documents\GitHub\LaTeXMentoring/main.log"
-  "main.toc"
   "main.aux"
   "main.log"
+  "main.toc"
+  "C:\Users\oojah\Documents\GitHub\LaTeXMentoring/main.pdf"
   "main.out"
+  "C:\Users\oojah\Documents\GitHub\LaTeXMentoring/main.log"
