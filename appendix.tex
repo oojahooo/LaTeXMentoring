@@ -4,6 +4,7 @@
 \section{Appendix}
 \label{appendix}
 \subsection{documentclass}
+\label{subsec:dctable}
 \begin{table}[h]
 	\centering
 	\begin{tabular}{|c|m{250pt}|}
@@ -54,9 +55,51 @@
 		openright, openany & 새로운 장을 항상 오른쪽 페이지에서 시작할지, 바로 다음 새 페이지에서 시작할지 설정합니다. article에서는 chapter가 존재하지 않아 쓸 수 없습니다. report에서는 새 페이지, book에서는 오른쪽 페이지가 기본입니다.\\
 		\hline
 	\end{tabular}
-        \caption{Document Class Options}
-        \label{tab:doc cls opt}
-      \end{table}
+    \caption{Document Class Options}
+    \label{tab:doc cls opt}
+\end{table}
+
+\newpage
+\subsection{수식 모드 공백 기호}
+\begin{table}[hp]
+	\centering
+	\begin{tabular}{|c|c|}
+		\hline
+		\verb|\,| & 전각의 $\frac{3}{18}$\\
+		\hline
+		\verb|\:| & 전각의 $\frac{4}{18}$\\
+		\hline
+		\verb|\;| & 전각의 $\frac{5}{18}$\\
+		\hline
+		\verb|\ | & 반각\\
+		\hline
+		\verb|\quad| & 전각\\
+		\hline
+		\verb|\qquad| & 전각의 2배\\
+		\hline
+	\end{tabular}
+	\caption{강제 공백 기호들}
+	\label{tab:quad}
+\end{table}
+
+\subsection{글 위, 아래 기호}
+\begin{table}[hp]
+	\centering
+	\begin{tabular}{|c|c|}
+		\hline
+		\verb|\overrightarrow{text}|, \verb|\overleftarrow{text}| & text 위에 오른쪽, 왼쪽 화살표를 그립니다.\\
+		\hline
+		\verb|\overleftrightarrow{text}| & text 위에 양쪽 화살표를 그립니다.\\
+		\hline
+		\verb|\overline{text}|, \verb|\underline{text}| & text 위, 아래에 수평선을 그립니다.\\
+		\hline
+		\verb|\overbrace{text}|, \verb|\underbrace{text}| & text 위, 아래에 중괄호를 그립니다.\\
+		\hline
+	\end{tabular}
+	\caption{글자 위, 아래에 그려지는 기호들}
+	\label{tab:overunder}
+\end{table}
+
 %%% Local Variables:
 %%% mode: latex
 %%% TeX-master: "main"
