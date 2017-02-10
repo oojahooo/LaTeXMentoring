@@ -24,29 +24,29 @@
 \contentsline {subsection}{\numberline {3.3}Preamble의 기능}{12}{subsection.0.3.3}
 \contentsline {subsection}{\numberline {3.4}명령어 알아보기}{13}{subsection.0.3.4}
 \contentsline {subsection}{\numberline {3.5}문제가 생기셨나요??}{13}{subsection.0.3.5}
-\contentsline {section}{\numberline {4}좀 더 구체적으로}{13}{section.0.4}
+\contentsline {section}{\numberline {4}좀 더 구체적으로}{14}{section.0.4}
 \contentsline {subsection}{\numberline {4.1}수식 작성하기}{15}{subsection.0.4.1}
 \contentsline {subsubsection}{\numberline {4.1.1}패키지 사용하기}{17}{subsubsection.0.4.1.1}
 \contentsline {subsubsection}{\numberline {4.1.2}입력 시작하기}{17}{subsubsection.0.4.1.2}
-\contentsline {paragraph}{짧은 수식 삽입하기}{17}{section*.15}
-\contentsline {paragraph}{긴 수식 삽입하기, 수식만 따로 삽입하기}{17}{section*.16}
-\contentsline {paragraph}{특별한 수식들}{17}{section*.17}
-\contentsline {paragraph}{}{17}{section*.18}
+\contentsline {paragraph}{짧은 수식 삽입하기}{17}{section*.16}
+\contentsline {paragraph}{긴 수식 삽입하기, 수식만 따로 삽입하기}{17}{section*.17}
+\contentsline {paragraph}{특별한 수식들}{17}{section*.18}
+\contentsline {paragraph}{}{17}{section*.19}
 \contentsline {subsubsection}{\numberline {4.1.3}다양한 기능}{17}{subsubsection.0.4.1.3}
-\contentsline {paragraph}{빈칸 띄우기}{18}{section*.19}
-\contentsline {paragraph}{글꼴 바꾸기}{18}{section*.20}
-\contentsline {paragraph}{벡터 표시, 밑줄 등 줄긋기}{18}{section*.21}
-\contentsline {paragraph}{열 맞춰 쓰기}{18}{section*.22}
-\contentsline {paragraph}{여러 줄 묶기}{18}{section*.23}
+\contentsline {paragraph}{빈칸 띄우기}{18}{section*.20}
+\contentsline {paragraph}{글꼴 바꾸기}{18}{section*.21}
+\contentsline {paragraph}{벡터 표시, 밑줄 등 줄긋기}{18}{section*.22}
+\contentsline {paragraph}{열 맞춰 쓰기}{18}{section*.23}
+\contentsline {paragraph}{여러 줄 묶기}{18}{section*.24}
 \contentsline {subsection}{\numberline {4.2}표와 그림}{18}{subsection.0.4.2}
 \contentsline {subsubsection}{\numberline {4.2.1}표}{21}{subsubsection.0.4.2.1}
-\contentsline {paragraph}{표 그리기}{21}{section*.24}
-\contentsline {paragraph}{표 삽입하기}{21}{section*.25}
-\contentsline {paragraph}{}{21}{section*.26}
+\contentsline {paragraph}{표 그리기}{21}{section*.25}
+\contentsline {paragraph}{표 삽입하기}{21}{section*.26}
+\contentsline {paragraph}{}{21}{section*.27}
 \contentsline {subsubsection}{\numberline {4.2.2}그림}{21}{subsubsection.0.4.2.2}
-\contentsline {paragraph}{package 사용하기}{21}{section*.27}
-\contentsline {paragraph}{그림 삽입하기}{22}{section*.28}
-\contentsline {paragraph}{}{22}{section*.29}
+\contentsline {paragraph}{package 사용하기}{21}{section*.28}
+\contentsline {paragraph}{그림 삽입하기}{22}{section*.29}
+\contentsline {paragraph}{}{22}{section*.30}
 \contentsline {subsection}{\numberline {4.3}문제가 생기셨나요?}{22}{subsection.0.4.3}
 \contentsline {section}{\numberline {5}Appendix}{24}{section.0.5}
 \contentsline {subsection}{\numberline {5.1}documentclass}{24}{subsection.0.5.1}
