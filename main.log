@@ -1,69 +1,68 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2016.8.24)  7 FEB 2017 12:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2017.1.30)  10 FEB 2017 16:32
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**./main.tex
+**\input ./main.tex
 (./main.tex
-LaTeX2e <2016/03/31>
-Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
-(c:/texlive/2016/texmf-dist/tex/latex/kotex-oblivoir/oblivoir.cls
+(c:/usr/texlive/2016/texmf-dist/tex/latex/kotex-oblivoir/oblivoir.cls
 Document Class: oblivoir 
-(c:/texlive/2016/texmf-dist/tex/latex/kotex-oblivoir/xoblivoir.cls
+(c:/usr/texlive/2016/texmf-dist/tex/latex/kotex-oblivoir/xoblivoir.cls
 Document Class: xoblivoir 2015/07/27
-(c:/texlive/2016/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(c:/usr/texlive/2016/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
-(c:/texlive/2016/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(c:/texlive/2016/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+(c:/usr/texlive/2016/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(c:/usr/texlive/2016/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks14
 \XKV@tempa@toks=\toks15
 
-(c:/texlive/2016/texmf-dist/tex/generic/xkeyval/keyval.tex))
+(c:/usr/texlive/2016/texmf-dist/tex/generic/xkeyval/keyval.tex))
 \XKV@depth=\count79
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-(c:/texlive/2016/texmf-dist/tex/generic/iftex/iftex.sty
+(c:/usr/texlive/2016/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2013/04/04 v0.2 Provides if(tex) conditional for PDFTeX, XeTeX, 
 and LuaTeX
 )
-(c:/texlive/2016/texmf-dist/tex/latex/kotex-oblivoir/oblivoir-base.cls
+(c:/usr/texlive/2016/texmf-dist/tex/latex/kotex-oblivoir/oblivoir-base.cls
 Document Class: oblivoir-base 2015/10/19 v0.8.1 article-like class to typeset U
 TF-8 korean using memoir.
 \fa@setheight=\skip41
 \fa@setwidth=\skip42
-(c:/texlive/2016/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-(c:/texlive/2016/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2016/05/18 v6512 L3 programming layer (loader) 
+(c:/usr/texlive/2016/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(c:/usr/texlive/2016/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2016/11/21 v6760 L3 programming layer (loader) 
 
-(c:/texlive/2016/texmf-dist/tex/latex/l3kernel/expl3-code.tex
-Package: expl3 2016/05/18 v6512 L3 programming layer (code)
-L3 Module: l3bootstrap 2016/02/12 v6412 L3 Bootstrap code
-L3 Module: l3names 2016/03/11 v6433 L3 Namespace for primitives
-L3 Module: l3basics 2015/11/22 v6315 L3 Basic definitions
-L3 Module: l3expan 2015/09/10 v5983 L3 Argument expansion
-L3 Module: l3tl 2016/03/26 v6465 L3 Token lists
-L3 Module: l3str 2016/03/24 v6441 L3 Strings
-L3 Module: l3seq 2015/08/05 v5777 L3 Sequences and stacks
-L3 Module: l3int 2016/03/24 v6441 L3 Integers
+(c:/usr/texlive/2016/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2016/11/21 v6760 L3 programming layer (code)
+L3 Module: l3bootstrap 2016/06/13 v6596 L3 Bootstrap code
+L3 Module: l3names 2016/10/13 v6722 L3 Namespace for primitives
+L3 Module: l3basics 2016/09/01 v6696 L3 Basic definitions
+L3 Module: l3expan 2016/08/19 v6684 L3 Argument expansion
+L3 Module: l3tl 2016/08/19 v6692 L3 Token lists
+L3 Module: l3str 2016/08/19 v6692 L3 Strings
+L3 Module: l3seq 2016/08/19 v6685 L3 Sequences and stacks
+L3 Module: l3int 2016/09/07 v6700 L3 Integers
 \c_max_int=\count80
 \l_tmpa_int=\count81
 \l_tmpb_int=\count82
 \g_tmpa_int=\count83
 \g_tmpb_int=\count84
-L3 Module: l3quark 2015/08/17 v5855 L3 Quarks
-L3 Module: l3prg 2015/11/01 v6216 L3 Control structures
+L3 Module: l3quark 2016/08/19 v6685 L3 Quarks
+L3 Module: l3prg 2016/08/18 v6679 L3 Control structures
 \g__prg_map_int=\count85
-L3 Module: l3clist 2015/09/02 v5901 L3 Comma separated lists
-L3 Module: l3token 2016/04/03 v6470 L3 Experimental token manipulation
-L3 Module: l3prop 2016/01/05 v6366 L3 Property lists
-L3 Module: l3msg 2016/03/26 v6464 L3 Messages
-L3 Module: l3file 2016/03/25 v6458 L3 File and I/O operations
+L3 Module: l3clist 2016/08/19 v6685 L3 Comma separated lists
+L3 Module: l3token 2016/09/01 v6695 L3 Experimental token manipulation
+L3 Module: l3prop 2016/08/19 v6685 L3 Property lists
+L3 Module: l3msg 2016/08/19 v6691 L3 Messages
+L3 Module: l3file 2016/08/19 v6685 L3 File and I/O operations
 \l_iow_line_count_int=\count86
 \l__iow_target_count_int=\count87
 \l__iow_current_line_int=\count88
 \l__iow_current_word_int=\count89
 \l__iow_current_indentation_int=\count90
-L3 Module: l3skip 2016/01/05 v6366 L3 Dimensions and skips
+L3 Module: l3skip 2016/08/19 v6692 L3 Dimensions and skips
 \c_zero_dim=\dimen102
 \c_max_dim=\dimen103
 \l_tmpa_dim=\dimen104
@@ -82,26 +81,25 @@ L3 Module: l3skip 2016/01/05 v6366 L3 Dimensions and skips
 \l_tmpb_muskip=\muskip13
 \g_tmpa_muskip=\muskip14
 \g_tmpb_muskip=\muskip15
-L3 Module: l3keys 2015/11/17 v6284 L3 Key-value interfaces
-\g__keyval_level_int=\count91
-\l_keys_choice_int=\count92
-L3 Module: l3fp 2016/03/26 v6465 L3 Floating points
-\c__fp_leading_shift_int=\count93
-\c__fp_middle_shift_int=\count94
-\c__fp_trailing_shift_int=\count95
-\c__fp_big_leading_shift_int=\count96
-\c__fp_big_middle_shift_int=\count97
-\c__fp_big_trailing_shift_int=\count98
-\c__fp_Bigg_leading_shift_int=\count99
-\c__fp_Bigg_middle_shift_int=\count100
-\c__fp_Bigg_trailing_shift_int=\count101
-L3 Module: l3box 2015/08/09 v5822 L3 Experimental boxes
+L3 Module: l3keys 2016/09/21 v6711 L3 Key-value interfaces
+\l_keys_choice_int=\count91
+L3 Module: l3fp 2016/11/21 v6761 L3 Floating points
+\c__fp_leading_shift_int=\count92
+\c__fp_middle_shift_int=\count93
+\c__fp_trailing_shift_int=\count94
+\c__fp_big_leading_shift_int=\count95
+\c__fp_big_middle_shift_int=\count96
+\c__fp_big_trailing_shift_int=\count97
+\c__fp_Bigg_leading_shift_int=\count98
+\c__fp_Bigg_middle_shift_int=\count99
+\c__fp_Bigg_trailing_shift_int=\count100
+L3 Module: l3box 2016/08/19 v6685 L3 Experimental boxes
 \c_empty_box=\box26
 \l_tmpa_box=\box27
 \l_tmpb_box=\box28
 \g_tmpa_box=\box29
 \g_tmpb_box=\box30
-L3 Module: l3coffins 2016/05/17 v6508 L3 Coffin code layer
+L3 Module: l3coffins 2016/08/19 v6685 L3 Coffin code layer
 \l__coffin_internal_box=\box31
 \l__coffin_internal_dim=\dimen108
 \l__coffin_offset_x_dim=\dimen109
@@ -121,9 +119,9 @@ L3 Module: l3coffins 2016/05/17 v6508 L3 Coffin code layer
 \l__coffin_display_offset_dim=\dimen115
 \l__coffin_display_x_dim=\dimen116
 \l__coffin_display_y_dim=\dimen117
-L3 Module: l3color 2014/08/23 v5354 L3 Experimental color support
+L3 Module: l3color 2016/06/13 v6596 L3 Experimental color support
 L3 Module: l3sys 2015/09/25 v6087 L3 Experimental system/runtime functions
-L3 Module: l3candidates 2016/05/13 v6484 L3 Experimental additions to l3kernel
+L3 Module: l3candidates 2016/08/19 v6688 L3 Experimental additions to l3kernel
 \l__box_top_dim=\dimen118
 \l__box_bottom_dim=\dimen119
 \l__box_left_dim=\dimen120
@@ -140,39 +138,39 @@ L3 Module: l3candidates 2016/05/13 v6484 L3 Experimental additions to l3kernel
 \l__coffin_top_corner_dim=\dimen130
 \l__coffin_scaled_total_height_dim=\dimen131
 \l__coffin_scaled_width_dim=\dimen132
-L3 Module: l3luatex 2016/03/26 v6465 L3 Experimental LuaTeX-specific functions
+L3 Module: l3luatex 2016/08/18 v6679 L3 Experimental LuaTeX-specific functions
 )
-(c:/texlive/2016/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
-File: l3pdfmode.def 2016/03/26 v6465 L3 Experimental driver: PDF mode
-\l__driver_color_stack_int=\count102
+(c:/usr/texlive/2016/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+File: l3pdfmode.def 2016/08/18 v6679 L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count101
 \l__driver_tmp_box=\box41
 ))
-Package: xparse 2016/05/18 v6512 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count103
-\l__xparse_m_args_int=\count104
-\l__xparse_mandatory_args_int=\count105
-\l__xparse_processor_int=\count106
-\l__xparse_v_nesting_int=\count107
+Package: xparse 2016/11/21 v6760 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count102
+\l__xparse_m_args_int=\count103
+\l__xparse_mandatory_args_int=\count104
+\l__xparse_processor_int=\count105
+\l__xparse_v_nesting_int=\count106
 )
-(c:/texlive/2016/texmf-dist/tex/latex/memoir/memoir.cls
+(c:/usr/texlive/2016/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docu
 ment class
 \onelineskip=\skip49
 \lxvchars=\skip50
 \xlvchars=\skip51
-\@memcnta=\count108
-\c@@memmarkcntra=\count109
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+\@memcnta=\count107
+\c@@memmarkcntra=\count108
+(c:/usr/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
 )
-(c:/texlive/2016/texmf-dist/tex/latex/ifetex/ifetex.sty
+(c:/usr/texlive/2016/texmf-dist/tex/latex/ifetex/ifetex.sty
 Package: ifetex 2011/12/15 v1.2 ifetex
 
-(c:/texlive/2016/texmf-dist/tex/plain/ifetex/ifetex.tex))
-(c:/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+(c:/usr/texlive/2016/texmf-dist/tex/plain/ifetex/ifetex.tex))
+(c:/usr/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+(c:/usr/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -181,7 +179,7 @@ Package ifluatex Info: LuaTeX not detected.
 \trimtop=\skip54
 \trimedge=\skip55
 
-(c:/texlive/2016/texmf-dist/tex/latex/memoir/mem10.clo
+(c:/usr/texlive/2016/texmf-dist/tex/latex/memoir/mem10.clo
 File: mem10.clo 2008/01/30 v0.3 memoir class 10pt size option
 )
 \binding=\skip56
@@ -194,20 +192,20 @@ File: mem10.clo 2008/01/30 v0.3 memoir class 10pt size option
 \mem@maxheadheight=\skip63
 \mem@maxfootheight=\skip64
 \headwidth=\skip65
-\c@storedpagenumber=\count110
+\c@storedpagenumber=\count109
 \memPD=\dimen133
 \m@mabparskip=\skip66
 \thanksmarkwidth=\skip67
 \thanksmarksep=\skip68
 \droptitle=\skip69
-\c@book=\count111
-\c@part=\count112
-\c@chapter=\count113
-\c@section=\count114
-\c@subsection=\count115
-\c@subsubsection=\count116
-\c@paragraph=\count117
-\c@subparagraph=\count118
+\c@book=\count110
+\c@part=\count111
+\c@chapter=\count112
+\c@section=\count113
+\c@subsection=\count114
+\c@subsubsection=\count115
+\c@paragraph=\count116
+\c@subparagraph=\count117
 \beforechapskip=\skip70
 \midchapskip=\skip71
 \afterchapskip=\skip72
@@ -229,8 +227,8 @@ File: mem10.clo 2008/01/30 v0.3 memoir class 10pt size option
 \beforesubparaskip=\skip88
 \aftersubparaskip=\skip89
 \pfbreakskip=\skip90
-\c@@ppsavesec=\count119
-\c@@ppsaveapp=\count120
+\c@@ppsavesec=\count118
+\c@@ppsaveapp=\count119
 \ragrparindent=\dimen134
 \everylistparindent=\dimen135
 \parsepi=\skip91
@@ -252,10 +250,10 @@ File: mem10.clo 2008/01/30 v0.3 memoir class 10pt size option
 \absrightindent=\skip105
 \absparindent=\skip106
 \absparsep=\skip107
-\c@vslineno=\count121
-\c@poemline=\count122
-\c@modulo@vs=\count123
-\c@memfvsline=\count124
+\c@vslineno=\count120
+\c@poemline=\count121
+\c@modulo@vs=\count122
+\c@memfvsline=\count123
 \vleftskip=\skip108
 \vrightskip=\skip109
 \stanzaskip=\skip110
@@ -263,11 +261,11 @@ File: mem10.clo 2008/01/30 v0.3 memoir class 10pt size option
 \vgap=\skip112
 \vindent=\skip113
 \vleftmargin=\dimen137
-\c@verse=\count125
-\c@chrsinstr=\count126
+\c@verse=\count124
+\c@chrsinstr=\count125
 \beforepoemtitleskip=\skip114
 \afterpoemtitleskip=\skip115
-\c@poem=\count127
+\c@poem=\count126
 \beforePoemTitleskip=\skip116
 \midPoemTitleskip=\skip117
 \afterPoemTitleskip=\skip118
@@ -281,7 +279,7 @@ File: mem10.clo 2008/01/30 v0.3 memoir class 10pt size option
 \TX@old@col=\dimen142
 \TX@target=\dimen143
 \TX@delta=\dimen144
-\TX@cols=\count128
+\TX@cols=\count127
 \TX@ftn=\toks18
 \heavyrulewidth=\dimen145
 \lightrulewidth=\dimen146
@@ -293,22 +291,22 @@ File: mem10.clo 2008/01/30 v0.3 memoir class 10pt size option
 \cmidrulesep=\dimen152
 \cmidrulekern=\dimen153
 \defaultaddspace=\dimen154
-\@cmidla=\count129
-\@cmidlb=\count130
+\@cmidla=\count128
+\@cmidlb=\count129
 \@aboverulesep=\dimen155
 \@belowrulesep=\dimen156
-\@thisruleclass=\count131
-\@lastruleclass=\count132
+\@thisruleclass=\count130
+\@lastruleclass=\count131
 \@thisrulewidth=\dimen157
 \ctableftskip=\skip121
 \ctabrightskip=\skip122
-\abovecolumnspenalty=\count133
-\@linestogo=\count134
-\@cellstogo=\count135
-\@cellsincolumn=\count136
+\abovecolumnspenalty=\count132
+\@linestogo=\count133
+\@cellstogo=\count134
+\@cellsincolumn=\count135
 \crtok=\toks19
 \@mincolumnwidth=\dimen158
-\c@newflo@tctr=\count137
+\c@newflo@tctr=\count136
 \mem@margin@floatbox=\box42
 \@contcwidth=\skip123
 \@contindw=\skip124
@@ -320,7 +318,7 @@ File: mem10.clo 2008/01/30 v0.3 memoir class 10pt size option
 \subfloatbottomskip=\skip130
 \subfloatlabelskip=\skip131
 \subfloatcapmargin=\dimen159
-\c@@contsubnum=\count138
+\c@@contsubnum=\count137
 \m@mscap@capbox=\box43
 \m@mscap@fbox=\box44
 \sidecapsep=\dimen160
@@ -364,7 +362,7 @@ LaTeX Info: Redefining \emph on input line 7559.
 \cftsubparagraphindent=\skip159
 \cftsubparagraphnumwidth=\skip160
 \prechapterprecisshift=\dimen169
-\c@maxsecnumdepth=\count139
+\c@maxsecnumdepth=\count138
 \bibindent=\dimen170
 \bibitemsep=\skip161
 \indexcolsep=\skip162
@@ -385,7 +383,7 @@ LaTeX Info: Redefining \emph on input line 7559.
 \footinsdim=\skip172
 \footinsv@r=\insert197
 \@mpfootinsv@r=\insert196
-\m@m@k=\count140
+\m@m@k=\count139
 \m@m@h=\dimen173
 \m@mipn@skip=\skip173
 \sidefootins=\insert195
@@ -395,52 +393,52 @@ LaTeX Info: Redefining \emph on input line 7559.
 \sidefootvsep=\skip177
 \sidefootwidth=\skip178
 \m@mdownsf=\skip179
-\c@sidefootnote=\count141
+\c@sidefootnote=\count140
 \sidefootmarkwidth=\skip180
 \sidefootmarksep=\skip181
 \sidefootparindent=\skip182
-\c@pagenote=\count142
-\c@pagenoteshadow=\count143
+\c@pagenote=\count141
+\c@pagenoteshadow=\count142
 \mem@pn@lastkern=\skip183
 \every@verbatim=\toks21
 \afterevery@verbatim=\toks22
 \verbatim@line=\toks23
-\tab@position=\count144
+\tab@position=\count143
 \verbatim@in@stream=\read1
 \verbatimindent=\skip184
 \verbatim@out=\write3
 \bvboxsep=\skip185
-\c@memfbvline=\count145
-\c@bvlinectr=\count146
+\c@memfbvline=\count144
+\c@bvlinectr=\count145
 \bvnumlength=\skip186
 \fb@frw=\dimen174
 \fb@frh=\dimen175
 \FrameRule=\dimen176
 \FrameSep=\dimen177
-\c@cp@cntr=\count147
+\c@cp@cntr=\count146
 LaTeX Info: Redefining \: on input line 12068.
 LaTeX Info: Redefining \! on input line 12070.
-\c@ism@mctr=\count148
-\c@xsm@mctr=\count149
-\c@csm@mctr=\count150
-\c@ksm@mctr=\count151
-\c@xksm@mctr=\count152
-\c@cksm@mctr=\count153
-\c@msm@mctr=\count154
-\c@xmsm@mctr=\count155
-\c@cmsm@mctr=\count156
-\c@bsm@mctr=\count157
-\c@workm@mctr=\count158
-\c@sheetsequence=\count159
-\c@lastsheet=\count160
-\c@lastpage=\count161
-\c@figure=\count162
-\c@lofdepth=\count163
+\c@ism@mctr=\count147
+\c@xsm@mctr=\count148
+\c@csm@mctr=\count149
+\c@ksm@mctr=\count150
+\c@xksm@mctr=\count151
+\c@cksm@mctr=\count152
+\c@msm@mctr=\count153
+\c@xmsm@mctr=\count154
+\c@cmsm@mctr=\count155
+\c@bsm@mctr=\count156
+\c@workm@mctr=\count157
+\c@sheetsequence=\count158
+\c@lastsheet=\count159
+\c@lastpage=\count160
+\c@figure=\count161
+\c@lofdepth=\count162
 \cftbeforefigureskip=\skip187
 \cftfigureindent=\skip188
 \cftfigurenumwidth=\skip189
-\c@table=\count164
-\c@lotdepth=\count165
+\c@table=\count163
+\c@lotdepth=\count164
 \cftbeforetableskip=\skip190
 \cfttableindent=\skip191
 \cfttablenumwidth=\skip192
@@ -480,33 +478,33 @@ Package tocvsec2 [2008/07/23] emulated by memoir.
 Package verbatim [2008/07/23] emulated by memoir.
 Package verse [2008/07/23] emulated by memoir.
 
-(c:/texlive/2016/texmf-dist/tex/latex/memoir/mempatch.sty
+(c:/usr/texlive/2016/texmf-dist/tex/latex/memoir/mempatch.sty
 Package: mempatch 2009/07/24 v6.0f Patches for memoir class v1.6180339
 ))
-(c:/texlive/2016/texmf-dist/tex/latex/kotex-oblivoir/memhangul-ucs/memhangul-uc
-s.sty
+(c:/usr/texlive/2016/texmf-dist/tex/latex/kotex-oblivoir/memhangul-ucs/memhangu
+l-ucs.sty
 Package: memhangul-ucs 2014/06/12UCS Hangul Package for memoir class
 
 memhangul-ucs v1.7.7 2014/06/12
-(c:/texlive/2016/texmf-dist/tex/latex/kotex-utf/dhucs.sty
+(c:/usr/texlive/2016/texmf-dist/tex/latex/kotex-utf/dhucs.sty
 Package: dhucs 2012/11/08 v5.3.2 typesetting UTF-8 Korean documents
 
-(c:/texlive/2016/texmf-dist/tex/latex/kotex-utf/kotexutf.sty
+(c:/usr/texlive/2016/texmf-dist/tex/latex/kotex-utf/kotexutf.sty
 Package: kotexutf 2015/07/18 v2.1.1 typesetting UTF-8 Korean documents
 
-(c:/texlive/2016/texmf-dist/tex/latex/base/inputenc.sty
+(c:/usr/texlive/2016/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks24
 \inpenc@posthook=\toks25
 
-(c:/texlive/2016/texmf-dist/tex/latex/base/utf8.def
+(c:/usr/texlive/2016/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2016/02/28 v1.1s UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-(c:/texlive/2016/texmf-dist/tex/latex/base/t1enc.dfu
+(c:/usr/texlive/2016/texmf-dist/tex/latex/base/t1enc.dfu
 File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -743,7 +741,7 @@ File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-(c:/texlive/2016/texmf-dist/tex/latex/base/ot1enc.dfu
+(c:/usr/texlive/2016/texmf-dist/tex/latex/base/ot1enc.dfu
 File: ot1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -784,7 +782,7 @@ File: ot1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-(c:/texlive/2016/texmf-dist/tex/latex/base/omsenc.dfu
+(c:/usr/texlive/2016/texmf-dist/tex/latex/base/omsenc.dfu
 File: omsenc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -808,14 +806,14 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-(c:/texlive/2016/texmf-dist/tex/plain/kotex-plain/kotexutf-core.tex
-\unih@ngulpoint=\count166
+(c:/usr/texlive/2016/texmf-dist/tex/plain/kotex-plain/kotexutf-core.tex
+\unih@ngulpoint=\count165
 \dhucs@emph@raise=\dimen178
 )
 Now handling font encoding LUC ...
 ... processing UTF-8 mapping file for font encoding LUC
 
-(c:/texlive/2016/texmf-dist/tex/latex/kotex-utf/lucenc.dfu
+(c:/usr/texlive/2016/texmf-dist/tex/latex/kotex-utf/lucenc.dfu
 File: lucenc.dfu 2007/09/05 UTF-8 support for dhucs
    defining Unicode char U+00B7 (decimal 183)
    defining Unicode char U+2018 (decimal 8216)
@@ -863,10 +861,10 @@ File: lucenc.dfu 2007/09/05 UTF-8 support for dhucs
    defining Unicode char U+FF64 (decimal 65380)
    defining Unicode char U+FF65 (decimal 65381)
 )
-\@josa=\count167
+\@josa=\count166
 \josatoks=\toks26
 
-(c:/texlive/2016/texmf-dist/tex/latex/cjk-ko/kolabels-utf.sty
+(c:/usr/texlive/2016/texmf-dist/tex/latex/cjk-ko/kolabels-utf.sty
 Package: kolabels-utf 2015/03/20 v1.5 UTF-8 Hangul item labels
 )))
 \memh@hu=\dimen179
@@ -874,53 +872,53 @@ Package: kolabels-utf 2015/03/20 v1.5 UTF-8 Hangul item labels
 \tmp@XXbox=\box45
 \tmp@XXdim=\dimen180
 
-(c:/texlive/2016/texmf-dist/tex/latex/kotex-oblivoir/memhangul-ucs/memhangul-co
-mmon.sty
+(c:/usr/texlive/2016/texmf-dist/tex/latex/kotex-oblivoir/memhangul-ucs/memhangu
+l-common.sty
 Package: memhangul-common 2015/10/15
 \pghgheadwidth=\dimen181
-\c@APPchapter=\count168
-\c@APPsection=\count169
-\c@APPsubsection=\count170
+\c@APPchapter=\count167
+\c@APPsection=\count168
+\c@APPsubsection=\count169
 \togetheightoffont=\box46
 \htoffnt=\skip194
 \divnoteskip=\skip256
 
-(c:/texlive/2016/texmf-dist/tex/latex/kotex-oblivoir/memhangul-ucs/memhangul-pa
-tch.sty) (c:/texlive/2016/texmf-dist/tex/generic/oberdiek/hologo.sty
+(c:/usr/texlive/2016/texmf-dist/tex/latex/kotex-oblivoir/memhangul-ucs/memhangu
+l-patch.sty) (c:/usr/texlive/2016/texmf-dist/tex/generic/oberdiek/hologo.sty
 Package: hologo 2016/05/16 v1.12 A logo collection with bookmark support (HO)
 
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+(c:/usr/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+(c:/usr/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+(c:/usr/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+(c:/usr/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 ))
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+(c:/usr/texlive/2016/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 )
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
+(c:/usr/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+(c:/usr/texlive/2016/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-(c:/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(c:/usr/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 Package hologo Info: Using driver `pdftex'.
@@ -946,14 +944,14 @@ Package hologo Info: Using driver `pdftex'.
 . Defining command \LuaLaTeX with sig. '' on line 1148.
 .................................................
 )
-(c:/texlive/2016/texmf-dist/tex/latex/kotex-oblivoir/memhangul-ucs/memucs-inter
-word.sty
+(c:/usr/texlive/2016/texmf-dist/tex/latex/kotex-oblivoir/memhangul-ucs/memucs-i
+nterword.sty
 Package: memucs-interword 2007/09/22
 \BASE@FONTsize=\dimen182
 \ORIG@spaceskip=\skip257
 )
-(c:/texlive/2016/texmf-dist/tex/latex/kotex-oblivoir/memhangul-ucs/memucs-setsp
-ace.sty
+(c:/usr/texlive/2016/texmf-dist/tex/latex/kotex-oblivoir/memhangul-ucs/memucs-s
+etspace.sty
 Package: memucs-setspace 2007/09/21 6.7-memucs8 Contributed and Supported LaTeX
 2e package
 
@@ -978,23 +976,23 @@ Package: `memucs-setspace', a modified version of `setspace', 6.7-memucs8 <2007
 . Defining command \useremph with sig. 'oom' on line 541.
 .................................................
 )
-(c:/texlive/2016/texmf-dist/tex/latex/kotex-oblivoir/memhangul-ucs/nanumfontsel
-.sty
+(c:/usr/texlive/2016/texmf-dist/tex/latex/kotex-oblivoir/memhangul-ucs/nanumfon
+tsel.sty
 Package: nanumfontsel 
-) (c:/texlive/2016/texmf-dist/tex/generic/pdftex/glyphtounicode.tex)
-(c:/texlive/2016/texmf-dist/tex/latex/kotex-utf/contrib/dhucs-cmap.sty
+) (c:/usr/texlive/2016/texmf-dist/tex/generic/pdftex/glyphtounicode.tex) (c:/us
+r/texlive/2016/texmf-dist/tex/latex/kotex-utf/contrib/dhucs-cmap.sty
 Package: dhucs-cmap 2007/06/16 searchable PDF for dhucs upon pdftex
 )
 \ob@hu=\dimen187
 
-(c:/texlive/2016/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2016/05/05 v6.83n Hypertext links for LaTeX
+(c:/usr/texlive/2016/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2016/06/24 v6.83q Hypertext links for LaTeX
 
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(c:/usr/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+(c:/usr/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -1019,80 +1017,80 @@ Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
 Package: xcolor-patch 2016/05/16 xcolor patch
 Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
 Package atveryend Info: \enddocument detected (standard20110627).
-Package: atbegshi 2016/05/16 v1.17 At begin shipout hook (HO)
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-(c:/texlive/2016/texmf-dist/tex/latex/oberdiek/auxhook.sty
+(c:/usr/texlive/2016/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
 \@linkdim=\dimen188
-\Hy@linkcounter=\count171
-\Hy@pagecounter=\count172
+\Hy@linkcounter=\count170
+\Hy@pagecounter=\count171
 
-(c:/texlive/2016/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2016/05/05 v6.83n Hyperref: PDFDocEncoding definition (HO)
+(c:/usr/texlive/2016/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2016/06/24 v6.83q Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count173
+\Hy@SavedSpaceFactor=\count172
 
-(c:/texlive/2016/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+(c:/usr/texlive/2016/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Option `unicode' set `true' on input line 4322.
+Package hyperref Info: Option `unicode' set `true' on input line 4362.
 
-(c:/texlive/2016/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2016/05/05 v6.83n Hyperref: PDF Unicode definition (HO)
+(c:/usr/texlive/2016/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2016/06/24 v6.83q Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Hyper figures OFF on input line 4446.
-Package hyperref Info: Link nesting OFF on input line 4451.
-Package hyperref Info: Hyper index ON on input line 4454.
-Package hyperref Info: Plain pages OFF on input line 4461.
-Package hyperref Info: Backreferencing OFF on input line 4466.
+Package hyperref Info: Hyper figures OFF on input line 4486.
+Package hyperref Info: Link nesting OFF on input line 4491.
+Package hyperref Info: Hyper index ON on input line 4494.
+Package hyperref Info: Plain pages OFF on input line 4501.
+Package hyperref Info: Backreferencing OFF on input line 4506.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4691.
-\c@Hy@tempcnt=\count174
+Package hyperref Info: Bookmarks ON on input line 4735.
+\c@Hy@tempcnt=\count173
 
-(c:/texlive/2016/texmf-dist/tex/latex/url/url.sty
+(c:/usr/texlive/2016/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5044.
+LaTeX Info: Redefining \url on input line 5088.
 \XeTeXLinkMargin=\dimen189
-\Fld@menulength=\count175
+\Fld@menulength=\count174
 \Field@Width=\dimen190
 \Fld@charsize=\dimen191
-Package hyperref Info: Hyper figures OFF on input line 6298.
-Package hyperref Info: Link nesting OFF on input line 6303.
-Package hyperref Info: Hyper index ON on input line 6306.
-Package hyperref Info: backreferencing OFF on input line 6313.
-Package hyperref Info: Link coloring OFF on input line 6318.
-Package hyperref Info: Link coloring with OCG OFF on input line 6323.
-Package hyperref Info: PDF/A mode OFF on input line 6328.
-LaTeX Info: Redefining \ref on input line 6368.
-LaTeX Info: Redefining \pageref on input line 6372.
-\Hy@abspage=\count176
-\c@Item=\count177
-\c@Hfootnote=\count178
+Package hyperref Info: Hyper figures OFF on input line 6342.
+Package hyperref Info: Link nesting OFF on input line 6347.
+Package hyperref Info: Hyper index ON on input line 6350.
+Package hyperref Info: backreferencing OFF on input line 6357.
+Package hyperref Info: Link coloring OFF on input line 6362.
+Package hyperref Info: Link coloring with OCG OFF on input line 6367.
+Package hyperref Info: PDF/A mode OFF on input line 6372.
+LaTeX Info: Redefining \ref on input line 6412.
+LaTeX Info: Redefining \pageref on input line 6416.
+\Hy@abspage=\count175
+\c@Item=\count176
+\c@Hfootnote=\count177
 )
-(c:/texlive/2016/texmf-dist/tex/latex/memoir/memhfixc.sty
+(c:/usr/texlive/2016/texmf-dist/tex/latex/memoir/memhfixc.sty
 Package: memhfixc 2013/05/30 v1.17 nameref/hyperref package fixes for memoir cl
 ass
-\c@memhycontfloat=\count179
-\c@Hpagenote=\count180
+\c@memhycontfloat=\count178
+\c@Hpagenote=\count179
 )
 
 Package hyperref Message: Driver: hpdftex.
 
-(c:/texlive/2016/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2016/05/05 v6.83n Hyperref driver for pdfTeX
-\Fld@listcount=\count181
-\c@bookmark@seq@number=\count182
+(c:/usr/texlive/2016/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2016/06/24 v6.83q Hyperref driver for pdfTeX
+\Fld@listcount=\count180
+\c@bookmark@seq@number=\count181
 
-(c:/texlive/2016/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+(c:/usr/texlive/2016/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
@@ -1101,69 +1099,70 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \@ensp=\skip259
 
-(c:/texlive/2016/texmf-dist/tex/latex/kotex-oblivoir/memhangul-ucs/ob-toclof.st
-y)
-(c:/texlive/2016/texmf-dist/tex/latex/kotex-oblivoir/memhangul-ucs/ob-koreanapp
-endix.sty))
+(c:/usr/texlive/2016/texmf-dist/tex/latex/kotex-oblivoir/memhangul-ucs/ob-toclo
+f.sty)
+(c:/usr/texlive/2016/texmf-dist/tex/latex/kotex-oblivoir/memhangul-ucs/ob-korea
+nappendix.sty))
 HANGUL DRIVER: kotex-utf
-)) (c:/texlive/2016/texmf-dist/tex/latex/cjk-ko/kotex.sty
+)) (c:/usr/texlive/2016/texmf-dist/tex/latex/cjk-ko/kotex.sty
 Package: kotex 2015/04/19 v1.6 Korean TeX (ko.TeX)
 
-(c:/texlive/2016/texmf-dist/tex/latex/kotex-utf/kotex.cfg))
-(c:/texlive/2016/texmf-dist/tex/latex/tools/indentfirst.sty
+(c:/usr/texlive/2016/texmf-dist/tex/latex/kotex-utf/kotex.cfg))
+(c:/usr/texlive/2016/texmf-dist/tex/latex/tools/indentfirst.sty
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 )
-(c:/texlive/2016/texmf-dist/tex/latex/lipsum/lipsum.sty
+(c:/usr/texlive/2016/texmf-dist/tex/latex/lipsum/lipsum.sty
 Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
-\c@lips@count=\count183
+\c@lips@count=\count182
 )
-(c:/texlive/2016/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2016/05/09 v1.1c Standard LaTeX Color (DPC)
+(c:/usr/texlive/2016/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
-(c:/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(c:/usr/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package color Info: Driver file: pdftex.def on input line 144.
+Package color Info: Driver file: pdftex.def on input line 147.
 
-(c:/texlive/2016/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
-\Gread@gobject=\count184
+(c:/usr/texlive/2016/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+\Gread@gobject=\count183
 ))
-(c:/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+(c:/usr/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-(c:/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+(c:/usr/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/10/09 v1.0u Standard LaTeX Graphics (DPC,SPQR)
 
-(c:/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+(c:/usr/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(c:/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+(c:/usr/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 96.
+Package graphics Info: Driver file: pdftex.def on input line 99.
 )
 \Gin@req@height=\dimen192
 \Gin@req@width=\dimen193
 )
-(c:/texlive/2016/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+(c:/usr/texlive/2016/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
 Package: fancyvrb 2008/02/07
 
 Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
 <2008/02/07> (tvz)
-\FV@CodeLineNo=\count185
+\FV@CodeLineNo=\count184
 \FV@InFile=\read2
 \FV@TabBox=\box47
-\c@FancyVerbLine=\count186
-\FV@StepNumber=\count187
+\c@FancyVerbLine=\count185
+\FV@StepNumber=\count186
 \FV@OutFile=\write4
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 8.
- (c:/texlive/2016/texmf-dist/tex/latex/geometry/geometry.sty
+
+(c:/usr/texlive/2016/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
-\Gm@cnth=\count188
-\Gm@cntv=\count189
-\c@Gm@tempcnt=\count190
+\Gm@cnth=\count187
+\Gm@cntv=\count188
+\c@Gm@tempcnt=\count189
 \Gm@bindingoffset=\dimen194
 \Gm@wd@mp=\dimen256
 \Gm@odd@mp=\dimen257
@@ -1173,38 +1172,39 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 \Gm@layouthoffset=\dimen261
 \Gm@layoutvoffset=\dimen262
 \Gm@dimlist=\toks27
-) (c:/texlive/2016/texmf-dist/tex/latex/pdfpages/pdfpages.sty
-Package: pdfpages 2016/04/19 v0.5f Insert pages of external PDF documents (AM)
+)
+(c:/usr/texlive/2016/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2017/01/14 v0.5h Insert pages of external PDF documents (AM)
 
-(c:/texlive/2016/texmf-dist/tex/latex/base/ifthen.sty
+(c:/usr/texlive/2016/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-(c:/texlive/2016/texmf-dist/tex/latex/tools/calc.sty
+(c:/usr/texlive/2016/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count191
-\calc@Bcount=\count192
+\calc@Acount=\count190
+\calc@Bcount=\count191
 \calc@Adimen=\dimen263
 \calc@Bdimen=\dimen264
 \calc@Askip=\skip260
 \calc@Bskip=\skip261
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count193
+\calc@Ccount=\count192
 \calc@Cskip=\skip262
 )
-(c:/texlive/2016/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+(c:/usr/texlive/2016/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
 )
 \AM@pagewidth=\dimen265
 \AM@pageheight=\dimen266
 
-(c:/texlive/2016/texmf-dist/tex/latex/pdfpages/pppdftex.def
-File: pppdftex.def 2016/04/19 v0.5f Pdfpages driver for pdfTeX (AM)
+(c:/usr/texlive/2016/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2017/01/14 v0.5h Pdfpages driver for pdfTeX (AM)
 )
 \AM@pagebox=\box48
 \AM@global@opts=\toks28
 \AM@toc@title=\toks29
-\c@AM@survey=\count194
+\c@AM@survey=\count193
 \AM@templatesizebox=\box49
 ) (./main.aux)
 \openout1 = `main.aux'.
@@ -1225,7 +1225,7 @@ LaTeX Font Info:    Checking defaults for LUC/nanummj/m/n on input line 17.
 LaTeX Font Info:    Try loading font information for LUC+nanummj on input line 
 17.
 
-(c:/texlive/2016/texmf-dist/tex/latex/nanumtype1/lucnanummj.fd
+(c:/usr/texlive/2016/texmf-dist/tex/latex/nanumtype1/lucnanummj.fd
 File: lucnanummj.fd 2013/02/12 v0.1 Nanum Myeongjo font definitions
 )
 LaTeX Font Info:    ... okay on input line 17.
@@ -1235,21 +1235,21 @@ LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
    defining Unicode char U+00B7 (decimal 183)
 
-(c:/texlive/2016/texmf-dist/tex/latex/kotex-oblivoir/memhangul-ucs/memucs-gremp
-h.sty
+(c:/usr/texlive/2016/texmf-dist/tex/latex/kotex-oblivoir/memhangul-ucs/memucs-g
+remph.sty
 Package: memucs-gremph 
 LaTeX Info: Redefining \itshape on input line 74.
 LaTeX Info: Redefining \slshape on input line 78.
 )
 \AtBeginShipoutBox=\box50
 Package hyperref Info: Link coloring ON on input line 17.
- (c:/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+ (c:/usr/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+(c:/usr/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count266
+\c@section@level=\count194
 )
 Redoing nameref's sectioning
 Redoing nameref's label
@@ -1262,23 +1262,23 @@ LaTeX Info: Redefining \nameref on input line 17.
 \openout5 = `main.out'.
 
 
-(c:/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(c:/usr/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count267
+\scratchcounter=\count266
 \scratchdimen=\dimen267
 \scratchbox=\box51
-\nofMPsegments=\count268
-\nofMParguments=\count269
+\nofMPsegments=\count267
+\nofMParguments=\count268
 \everyMPshowfont=\toks30
-\MPscratchCnt=\count270
+\MPscratchCnt=\count269
 \MPscratchDim=\dimen268
-\MPnumerator=\count271
-\makeMPintoPDFobject=\count272
+\MPnumerator=\count270
+\makeMPintoPDFobject=\count271
 \everyMPtoPDFconversion=\toks31
-) (c:/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+) (c:/usr/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-(c:/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
+(c:/usr/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -1288,7 +1288,7 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 
-(c:/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(c:/usr/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
@@ -1326,10 +1326,10 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(c:/texlive/2016/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+(c:/usr/texlive/2016/texmf-dist/tex/latex/oberdiek/pdflscape.sty
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
 
-(c:/texlive/2016/texmf-dist/tex/latex/graphics/lscape.sty
+(c:/usr/texlive/2016/texmf-dist/tex/latex/graphics/lscape.sty
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
@@ -1348,12 +1348,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 )
 (./intro.tex [1
 
-{c:/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+{c:/usr/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 10.
-
-[2] [3]) (./install.tex [4]
-<figures/nhelloworld.png, id=300, 1445.4pt x 813.0375pt>
+ [2] [3]) (./install.tex [4]
+<figures/nhelloworld.png, id=301, 1445.4pt x 813.0375pt>
 File: figures/nhelloworld.png Graphic file (type png)
 
 <use figures/nhelloworld.png>
@@ -1363,30 +1362,26 @@ Package pdftex.def Info: figures/nhelloworld.png used on input line 32.
 LaTeX Font Info:    Try loading font information for LUC+nanumgt on input line 
 54.
 
-(c:/texlive/2016/texmf-dist/tex/latex/nanumtype1/lucnanumgt.fd
+(c:/usr/texlive/2016/texmf-dist/tex/latex/nanumtype1/lucnanumgt.fd
 File: lucnanumgt.fd 2013/02/12 v0.1 Nanum Gothic font definitions
-)
-<figures/helloworld.png, id=318, 1445.4pt x 813.0375pt>
+) [6]
+<figures/helloworld.png, id=336, 1445.4pt x 813.0375pt>
 File: figures/helloworld.png Graphic file (type png)
 
 <use figures/helloworld.png>
 Package pdftex.def Info: figures/helloworld.png used on input line 72.
 (pdftex.def)             Requested size: 455.24411pt x 256.07095pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[6] [7 <./figures/helloworld.png>]
+ [7 <./figures/helloworld.png>] [8]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 116.
 
 
-(c:/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
+(c:/usr/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 116.
- [8]) (./text.tex [9]
-<example/examplepdf.pdf, id=372, 597.50829pt x 845.0471pt>
+) (./text.tex [9]
+<example/examplepdf.pdf, id=377, 597.50829pt x 845.0471pt>
 File: example/examplepdf.pdf Graphic file (type pdf)
 
 <use example/examplepdf.pdf>
@@ -1397,7 +1392,7 @@ File: example/examplepdf.pdf Graphic file (type pdf)
 Package pdftex.def Info: example/examplepdf.pdf used on input line 41.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 
-<example/examplepdf.pdf, id=375, page=1, 597.50829pt x 845.0471pt>
+<example/examplepdf.pdf, id=380, page=1, 597.50829pt x 845.0471pt>
 File: example/examplepdf.pdf Graphic file (type pdf)
 
 <use example/examplepdf.pdf, page 1>
@@ -1422,9 +1417,21 @@ File: example/examplepdf.pdf Graphic file (type pdf)
 <use example/examplepdf.pdf, page 1>
 Package pdftex.def Info: example/examplepdf.pdf, page1 used on input line 41.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [11 <./example/examplepdf.pdf>] [12])
-(./advanced_1.tex) (./advanced_2.tex [13]
-<example/mathexamplepdf.pdf, id=600, 597.50829pt x 845.0471pt>
+ [11 <./example/examplepdf.pdf>] [12]
+Overfull \hbox (1.2628pt too wide) in paragraph at lines 90--94
+\LUC/nanummj/m/n/10/c0 ֱ\LUC/nanummj/m/n/10/d5 X\LUC/nanummj/m/n/10/c1 h\LUC/na
+nummj/m/n/10/ac  \LUC/nanummj/m/n/10/c9 ְ\LUC/nanummj/m/n/10/b9 ּ\OT1/cmr/m/n/1
+0 , []\OT1/cmtt/m/n/10 \tableofcontents \LUC/nanummj/m/n/10/b2 ” \LUC/nanummj/m
+/n/10/bb 8\LUC/nanummj/m/n/10/c1 ^^\\LUC/nanummj/m/n/10/c7 X \LUC/nanummj/m/n/1
+0/ba ©\LUC/nanummj/m/n/10/cc (\LUC/nanummj/m/n/10/b9 | ּ\LUC/nanummj/m/n/10/b4 
+ה\LUC/nanummj/m/n/10/c5 ´ \LUC/nanummj/m/n/10/c9 ^^M\LUC/nanummj/m/n/10/b2 ָה[]
+ \LUC/nanummj/m/n/10/c5 ^\LUC/nanummj/m/n/10/c1 ^^\ $\LUC/nanummj/m/n/10/ba …\L
+UC/nanummj/m/n/10/d5 ˆ\LUC/nanummj/m/n/10/b4 ן []\OT1/cmtt/m/n/10 \section\OT1/
+cmr/m/n/10 , []\OT1/cmtt/m/n/10 \subsection
+ []
+
+) (./advanced_1.tex) (./advanced_2.tex [13] [14]
+<example/mathexamplepdf.pdf, id=614, 597.50829pt x 845.0471pt>
 File: example/mathexamplepdf.pdf Graphic file (type pdf)
 
 <use example/mathexamplepdf.pdf>
@@ -1435,7 +1442,7 @@ File: example/mathexamplepdf.pdf Graphic file (type pdf)
 Package pdftex.def Info: example/mathexamplepdf.pdf used on input line 45.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 
-<example/mathexamplepdf.pdf, id=603, page=1, 597.50829pt x 845.0471pt>
+<example/mathexamplepdf.pdf, id=617, page=1, 597.50829pt x 845.0471pt>
 File: example/mathexamplepdf.pdf Graphic file (type pdf)
 
 <use example/mathexamplepdf.pdf, page 1>
@@ -1448,7 +1455,7 @@ File: example/mathexamplepdf.pdf Graphic file (type pdf)
 Package pdftex.def Info: example/mathexamplepdf.pdf, page1 used on input line 4
 5.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [14]
+ [15]
 File: example/mathexamplepdf.pdf Graphic file (type pdf)
 
 <use example/mathexamplepdf.pdf, page 1>
@@ -1467,8 +1474,8 @@ File: example/mathexamplepdf.pdf Graphic file (type pdf)
 Package pdftex.def Info: example/mathexamplepdf.pdf, page1 used on input line 4
 5.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [15 <./example/mathexamplepdf.pdf>]
-[16] [17] <example/tabfigexample.pdf, id=765, 597.50829pt x 845.0471pt>
+ [16 <./example/mathexamplepdf.pdf>]
+[17] [18] <example/tabfigexample.pdf, id=779, 597.50829pt x 845.0471pt>
 File: example/tabfigexample.pdf Graphic file (type pdf)
 
 <use example/tabfigexample.pdf>
@@ -1479,7 +1486,7 @@ File: example/tabfigexample.pdf Graphic file (type pdf)
 Package pdftex.def Info: example/tabfigexample.pdf used on input line 179.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 
-<example/tabfigexample.pdf, id=768, page=1, 597.50829pt x 845.0471pt>
+<example/tabfigexample.pdf, id=782, page=1, 597.50829pt x 845.0471pt>
 File: example/tabfigexample.pdf Graphic file (type pdf)
 
 <use example/tabfigexample.pdf, page 1>
@@ -1492,7 +1499,7 @@ File: example/tabfigexample.pdf Graphic file (type pdf)
 Package pdftex.def Info: example/tabfigexample.pdf, page1 used on input line 17
 9.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [18]
+ [19]
 File: example/tabfigexample.pdf Graphic file (type pdf)
 
 <use example/tabfigexample.pdf, page 1>
@@ -1511,8 +1518,8 @@ File: example/tabfigexample.pdf Graphic file (type pdf)
 Package pdftex.def Info: example/tabfigexample.pdf, page1 used on input line 17
 9.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [19 <./example/tabfigexample.pdf>]
-[20] [21]) (./appendix.tex [22] [23]) [24]
+ [20 <./example/tabfigexample.pdf>]
+[21] [22]) (./appendix.tex [23] [24]) [25]
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
@@ -1522,146 +1529,152 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 26.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 26.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 26.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: EBF3A27FEF4DFCEE4295FC052840A320;2737.
+(rerunfilecheck)             Checksum: 803303871FE0C0BEC5B1C9CB29128955;2881.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 26.
  ) 
 Here is how much of TeX's memory you used:
- 23167 strings out of 493014
- 376017 string characters out of 6137001
- 557616 words of memory out of 5000000
- 26028 multiletter control sequences out of 15000+600000
- 64199 words of font info for 220 fonts, out of 8000000 for 9000
+ 23297 strings out of 493013
+ 379361 string characters out of 6135157
+ 560268 words of memory out of 5000000
+ 26138 multiletter control sequences out of 15000+600000
+ 68748 words of font info for 236 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,18n,48p,10413b,750s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{Hfootnote.11} has been referenced but does not ex
+ 68i,18n,48p,10420b,653s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{Hfootnote.12} has been referenced but does not ex
 ist, replaced by a fixed one
 
-<c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texli
-ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2016/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><c:/texlive/2016/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2016/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmmi7.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmr10.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.p
-fb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texl
-ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2016/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2016/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2016/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmti10.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmtt10.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmtt8.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtm3
-1.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmac.pfb>
-<c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmad.pfb><c:/te
-xlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmae.pfb><c:/texlive/
-2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmb0.pfb><c:/texlive/2016/t
-exmf-dist/fonts/type1/public/nanumtype1/nanumgtmb1.pfb><c:/texlive/2016/texmf-d
-ist/fonts/type1/public/nanumtype1/nanumgtmb2.pfb><c:/texlive/2016/texmf-dist/fo
-nts/type1/public/nanumtype1/nanumgtmb3.pfb><c:/texlive/2016/texmf-dist/fonts/ty
-pe1/public/nanumtype1/nanumgtmb4.pfb><c:/texlive/2016/texmf-dist/fonts/type1/pu
-blic/nanumtype1/nanumgtmb5.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/n
-anumtype1/nanumgtmb7.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumty
-pe1/nanumgtmb8.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/na
-numgtmb9.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtm
-ba.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmbb.pfb
-><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmbc.pfb><c:/t
-exlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmbd.pfb><c:/texlive
-/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc1.pfb><c:/texlive/2016/
-texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc2.pfb><c:/texlive/2016/texmf-
-dist/fonts/type1/public/nanumtype1/nanumgtmc5.pfb><c:/texlive/2016/texmf-dist/f
-onts/type1/public/nanumtype1/nanumgtmc6.pfb><c:/texlive/2016/texmf-dist/fonts/t
-ype1/public/nanumtype1/nanumgtmc7.pfb><c:/texlive/2016/texmf-dist/fonts/type1/p
-ublic/nanumtype1/nanumgtmc8.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/
-nanumtype1/nanumgtmc9.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumt
-ype1/nanumgtmcc.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/n
-anumgtmce.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgt
-md0.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd1.pf
-b><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd3.pfb><c:/
-texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd4.pfb><c:/texliv
-e/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd5.pfb><c:/texlive/2016
-/texmf-dist/fonts/type1/public/nanumtype1/nanummjbac.pfb><c:/texlive/2016/texmf
--dist/fonts/type1/public/nanumtype1/nanummjbad.pfb><c:/texlive/2016/texmf-dist/
-fonts/type1/public/nanumtype1/nanummjbae.pfb><c:/texlive/2016/texmf-dist/fonts/
-type1/public/nanumtype1/nanummjbaf.pfb><c:/texlive/2016/texmf-dist/fonts/type1/
-public/nanumtype1/nanummjbb0.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public
-/nanumtype1/nanummjbb1.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanum
-type1/nanummjbb2.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/
-nanummjbb3.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumm
-jbb4.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb5.p
-fb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb7.pfb><c:
-/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb8.pfb><c:/texli
-ve/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb9.pfb><c:/texlive/201
-6/texmf-dist/fonts/type1/public/nanumtype1/nanummjbba.pfb><c:/texlive/2016/texm
-f-dist/fonts/type1/public/nanumtype1/nanummjbbb.pfb><c:/texlive/2016/texmf-dist
-/fonts/type1/public/nanumtype1/nanummjbbc.pfb><c:/texlive/2016/texmf-dist/fonts
-/type1/public/nanumtype1/nanummjbbd.pfb><c:/texlive/2016/texmf-dist/fonts/type1
-/public/nanumtype1/nanummjbbe.pfb><c:/texlive/2016/texmf-dist/fonts/type1/publi
-c/nanumtype1/nanummjbc0.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanu
-mtype1/nanummjbc1.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1
-/nanummjbc2.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanum
-mjbc4.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc5.
-pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc6.pfb><c
-:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc7.pfb><c:/texl
-ive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc8.pfb><c:/texlive/20
-16/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc9.pfb><c:/texlive/2016/tex
-mf-dist/fonts/type1/public/nanumtype1/nanummjbcc.pfb><c:/texlive/2016/texmf-dis
-t/fonts/type1/public/nanumtype1/nanummjbcd.pfb><c:/texlive/2016/texmf-dist/font
-s/type1/public/nanumtype1/nanummjbce.pfb><c:/texlive/2016/texmf-dist/fonts/type
-1/public/nanumtype1/nanummjbcf.pfb><c:/texlive/2016/texmf-dist/fonts/type1/publ
-ic/nanumtype1/nanummjbd0.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nan
-umtype1/nanummjbd1.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype
-1/nanummjbd2.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanu
-mmjbd3.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd4
-.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd5.pfb><
-c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd6.pfb><c:/tex
-live/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmac.pfb><c:/texlive/2
-016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmad.pfb><c:/texlive/2016/te
-xmf-dist/fonts/type1/public/nanumtype1/nanummjmae.pfb><c:/texlive/2016/texmf-di
-st/fonts/type1/public/nanumtype1/nanummjmaf.pfb><c:/texlive/2016/texmf-dist/fon
-ts/type1/public/nanumtype1/nanummjmb0.pfb><c:/texlive/2016/texmf-dist/fonts/typ
-e1/public/nanumtype1/nanummjmb1.pfb><c:/texlive/2016/texmf-dist/fonts/type1/pub
-lic/nanumtype1/nanummjmb2.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/na
-numtype1/nanummjmb3.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtyp
-e1/nanummjmb4.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nan
-ummjmb4.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb
-5.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb6.pfb>
-<c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb7.pfb><c:/te
-xlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb8.pfb><c:/texlive/
-2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb9.pfb><c:/texlive/2016/t
-exmf-dist/fonts/type1/public/nanumtype1/nanummjmba.pfb><c:/texlive/2016/texmf-d
-ist/fonts/type1/public/nanumtype1/nanummjmbb.pfb><c:/texlive/2016/texmf-dist/fo
-nts/type1/public/nanumtype1/nanummjmbc.pfb><c:/texlive/2016/texmf-dist/fonts/ty
-pe1/public/nanumtype1/nanummjmbd.pfb><c:/texlive/2016/texmf-dist/fonts/type1/pu
-blic/nanumtype1/nanummjmbe.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/n
-anumtype1/nanummjmbf.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumty
-pe1/nanummjmc0.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/na
-nummjmc1.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjm
-c1.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc2.pfb
-><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc3.pfb><c:/t
-exlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc4.pfb><c:/texlive
-/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc5.pfb><c:/texlive/2016/
-texmf-dist/fonts/type1/public/nanumtype1/nanummjmc5.pfb><c:/texlive/2016/texmf-
-dist/fonts/type1/public/nanumtype1/nanummjmc6.pfb><c:/texlive/2016/texmf-dist/f
-onts/type1/public/nanumtype1/nanummjmc7.pfb><c:/texlive/2016/texmf-dist/fonts/t
-ype1/public/nanumtype1/nanummjmc8.pfb><c:/texlive/2016/texmf-dist/fonts/type1/p
-ublic/nanumtype1/nanummjmc9.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/
-nanumtype1/nanummjmca.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumt
-ype1/nanummjmcb.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/n
-anummjmcc.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummj
-mcd.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmce.pf
-b><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcf.pfb><c:/
-texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd0.pfb><c:/texliv
-e/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd1.pfb><c:/texlive/2016
-/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd2.pfb><c:/texlive/2016/texmf
--dist/fonts/type1/public/nanumtype1/nanummjmd3.pfb><c:/texlive/2016/texmf-dist/
-fonts/type1/public/nanumtype1/nanummjmd4.pfb><c:/texlive/2016/texmf-dist/fonts/
-type1/public/nanumtype1/nanummjmd5.pfb><c:/texlive/2016/texmf-dist/fonts/type1/
-public/nanumtype1/nanummjmd6.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public
-/nanumtype1/nanummjmd7.pfb><c:/texlive/2016/texmf-dist/fonts/type1/uhc/umj/umj0
-2.pfb>
-Output written on main.pdf (24 pages, 5062284 bytes).
+<c:/usr/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/u
+sr/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/usr/te
+xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><c:/usr/texlive/
+2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/usr/texlive/2016/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/usr/texlive/2016/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/usr/texlive/2016/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/usr/texlive/2016/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr12.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr6.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr7.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr8.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.
+pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><
+c:/usr/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb><c:/usr
+/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtm31.pfb><c:/usr/t
+exlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmac.pfb><c:/usr/tex
+live/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmad.pfb><c:/usr/texli
+ve/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmae.pfb><c:/usr/texlive
+/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmb0.pfb><c:/usr/texlive/2
+016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmb1.pfb><c:/usr/texlive/201
+6/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmb2.pfb><c:/usr/texlive/2016/
+texmf-dist/fonts/type1/public/nanumtype1/nanumgtmb3.pfb><c:/usr/texlive/2016/te
+xmf-dist/fonts/type1/public/nanumtype1/nanumgtmb4.pfb><c:/usr/texlive/2016/texm
+f-dist/fonts/type1/public/nanumtype1/nanumgtmb5.pfb><c:/usr/texlive/2016/texmf-
+dist/fonts/type1/public/nanumtype1/nanumgtmb7.pfb><c:/usr/texlive/2016/texmf-di
+st/fonts/type1/public/nanumtype1/nanumgtmb8.pfb><c:/usr/texlive/2016/texmf-dist
+/fonts/type1/public/nanumtype1/nanumgtmb9.pfb><c:/usr/texlive/2016/texmf-dist/f
+onts/type1/public/nanumtype1/nanumgtmba.pfb><c:/usr/texlive/2016/texmf-dist/fon
+ts/type1/public/nanumtype1/nanumgtmbb.pfb><c:/usr/texlive/2016/texmf-dist/fonts
+/type1/public/nanumtype1/nanumgtmbc.pfb><c:/usr/texlive/2016/texmf-dist/fonts/t
+ype1/public/nanumtype1/nanumgtmbd.pfb><c:/usr/texlive/2016/texmf-dist/fonts/typ
+e1/public/nanumtype1/nanumgtmc1.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1
+/public/nanumtype1/nanumgtmc2.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/p
+ublic/nanumtype1/nanumgtmc5.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/pub
+lic/nanumtype1/nanumgtmc6.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/publi
+c/nanumtype1/nanumgtmc7.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/
+nanumtype1/nanumgtmc8.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/na
+numtype1/nanumgtmc9.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanu
+mtype1/nanumgtmcc.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumt
+ype1/nanumgtmce.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtyp
+e1/nanumgtmd0.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1
+/nanumgtmd1.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/n
+anumgtmd3.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nan
+umgtmd4.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanum
+gtmd5.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummj
+bac.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjba
+d.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjbae.
+pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjbaf.pf
+b><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb0.pfb>
+<c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb1.pfb><c
+:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb2.pfb><c:/
+usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb3.pfb><c:/us
+r/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb4.pfb><c:/usr/
+texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb5.pfb><c:/usr/te
+xlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb7.pfb><c:/usr/texl
+ive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb8.pfb><c:/usr/texliv
+e/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb9.pfb><c:/usr/texlive/
+2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjbba.pfb><c:/usr/texlive/20
+16/texmf-dist/fonts/type1/public/nanumtype1/nanummjbbb.pfb><c:/usr/texlive/2016
+/texmf-dist/fonts/type1/public/nanumtype1/nanummjbbc.pfb><c:/usr/texlive/2016/t
+exmf-dist/fonts/type1/public/nanumtype1/nanummjbbd.pfb><c:/usr/texlive/2016/tex
+mf-dist/fonts/type1/public/nanumtype1/nanummjbbe.pfb><c:/usr/texlive/2016/texmf
+-dist/fonts/type1/public/nanumtype1/nanummjbc0.pfb><c:/usr/texlive/2016/texmf-d
+ist/fonts/type1/public/nanumtype1/nanummjbc1.pfb><c:/usr/texlive/2016/texmf-dis
+t/fonts/type1/public/nanumtype1/nanummjbc2.pfb><c:/usr/texlive/2016/texmf-dist/
+fonts/type1/public/nanumtype1/nanummjbc4.pfb><c:/usr/texlive/2016/texmf-dist/fo
+nts/type1/public/nanumtype1/nanummjbc5.pfb><c:/usr/texlive/2016/texmf-dist/font
+s/type1/public/nanumtype1/nanummjbc6.pfb><c:/usr/texlive/2016/texmf-dist/fonts/
+type1/public/nanumtype1/nanummjbc7.pfb><c:/usr/texlive/2016/texmf-dist/fonts/ty
+pe1/public/nanumtype1/nanummjbc8.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type
+1/public/nanumtype1/nanummjbc9.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/
+public/nanumtype1/nanummjbcc.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/pu
+blic/nanumtype1/nanummjbcd.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/publ
+ic/nanumtype1/nanummjbce.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public
+/nanumtype1/nanummjbcf.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/n
+anumtype1/nanummjbd0.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nan
+umtype1/nanummjbd1.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanum
+type1/nanummjbd2.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumty
+pe1/nanummjbd3.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype
+1/nanummjbd4.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/
+nanummjbd5.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/na
+nummjbd6.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanu
+mmjmac.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumm
+jmad.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjm
+ae.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmaf
+.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb0.p
+fb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb1.pfb
+><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb2.pfb><
+c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb3.pfb><c:
+/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb4.pfb><c:/u
+sr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb4.pfb><c:/usr
+/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb5.pfb><c:/usr/t
+exlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb6.pfb><c:/usr/tex
+live/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb7.pfb><c:/usr/texli
+ve/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb8.pfb><c:/usr/texlive
+/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb9.pfb><c:/usr/texlive/2
+016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmba.pfb><c:/usr/texlive/201
+6/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbb.pfb><c:/usr/texlive/2016/
+texmf-dist/fonts/type1/public/nanumtype1/nanummjmbc.pfb><c:/usr/texlive/2016/te
+xmf-dist/fonts/type1/public/nanumtype1/nanummjmbd.pfb><c:/usr/texlive/2016/texm
+f-dist/fonts/type1/public/nanumtype1/nanummjmbe.pfb><c:/usr/texlive/2016/texmf-
+dist/fonts/type1/public/nanumtype1/nanummjmbf.pfb><c:/usr/texlive/2016/texmf-di
+st/fonts/type1/public/nanumtype1/nanummjmc0.pfb><c:/usr/texlive/2016/texmf-dist
+/fonts/type1/public/nanumtype1/nanummjmc1.pfb><c:/usr/texlive/2016/texmf-dist/f
+onts/type1/public/nanumtype1/nanummjmc1.pfb><c:/usr/texlive/2016/texmf-dist/fon
+ts/type1/public/nanumtype1/nanummjmc2.pfb><c:/usr/texlive/2016/texmf-dist/fonts
+/type1/public/nanumtype1/nanummjmc3.pfb><c:/usr/texlive/2016/texmf-dist/fonts/t
+ype1/public/nanumtype1/nanummjmc4.pfb><c:/usr/texlive/2016/texmf-dist/fonts/typ
+e1/public/nanumtype1/nanummjmc5.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1
+/public/nanumtype1/nanummjmc5.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/p
+ublic/nanumtype1/nanummjmc6.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/pub
+lic/nanumtype1/nanummjmc7.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/publi
+c/nanumtype1/nanummjmc8.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/
+nanumtype1/nanummjmc9.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/na
+numtype1/nanummjmca.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanu
+mtype1/nanummjmcb.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumt
+ype1/nanummjmcc.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtyp
+e1/nanummjmcd.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1
+/nanummjmce.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/n
+anummjmcf.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nan
+ummjmd0.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanum
+mjmd1.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummj
+md2.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd
+3.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd4.
+pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd5.pf
+b><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd6.pfb>
+<c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd7.pfb><c
+:/usr/texlive/2016/texmf-dist/fonts/type1/uhc/umj/umj02.pfb>
+Output written on main.pdf (25 pages, 5072672 bytes).
 PDF statistics:
- 1381 PDF objects out of 1440 (max. 8388607)
- 1028 compressed objects within 11 object streams
- 109 named destinations out of 1000 (max. 500000)
- 427 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1396 PDF objects out of 1440 (max. 8388607)
+ 1042 compressed objects within 11 object streams
+ 113 named destinations out of 1000 (max. 500000)
+ 435 words of extra memory for PDF output out of 10000 (max. 10000000)
 
