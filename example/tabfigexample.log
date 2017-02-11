@@ -1,14 +1,14 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2016.8.24)  7 FEB 2017 08:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2016.8.24)  11 FEB 2017 10:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **./tabfigexample.tex
 (./tabfigexample.tex
-LaTeX2e <2016/03/31>
+LaTeX2e <2016/03/31> patch level 3
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
-(c:/texlive/2016/texmf-dist/tex/latex/base/article.cls
+(c:/usr/texlive/2016/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(c:/texlive/2016/texmf-dist/tex/latex/base/size10.clo
+(c:/usr/texlive/2016/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -23,26 +23,26 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(c:/texlive/2016/texmf-dist/tex/latex/cjk-ko/kotex.sty
+(c:/usr/texlive/2016/texmf-dist/tex/latex/cjk-ko/kotex.sty
 Package: kotex 2015/04/19 v1.6 Korean TeX (ko.TeX)
 
-(c:/texlive/2016/texmf-dist/tex/latex/kotex-utf/kotex.cfg)
-(c:/texlive/2016/texmf-dist/tex/latex/kotex-utf/kotexutf.sty
+(c:/usr/texlive/2016/texmf-dist/tex/latex/kotex-utf/kotex.cfg)
+(c:/usr/texlive/2016/texmf-dist/tex/latex/kotex-utf/kotexutf.sty
 Package: kotexutf 2015/07/18 v2.1.1 typesetting UTF-8 Korean documents
 
-(c:/texlive/2016/texmf-dist/tex/latex/base/inputenc.sty
+(c:/usr/texlive/2016/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 
-(c:/texlive/2016/texmf-dist/tex/latex/base/utf8.def
+(c:/usr/texlive/2016/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2016/02/28 v1.1s UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-(c:/texlive/2016/texmf-dist/tex/latex/base/t1enc.dfu
+(c:/usr/texlive/2016/texmf-dist/tex/latex/base/t1enc.dfu
 File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -279,7 +279,7 @@ File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-(c:/texlive/2016/texmf-dist/tex/latex/base/ot1enc.dfu
+(c:/usr/texlive/2016/texmf-dist/tex/latex/base/ot1enc.dfu
 File: ot1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -320,7 +320,7 @@ File: ot1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-(c:/texlive/2016/texmf-dist/tex/latex/base/omsenc.dfu
+(c:/usr/texlive/2016/texmf-dist/tex/latex/base/omsenc.dfu
 File: omsenc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -344,14 +344,14 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-(c:/texlive/2016/texmf-dist/tex/plain/kotex-plain/kotexutf-core.tex
+(c:/usr/texlive/2016/texmf-dist/tex/plain/kotex-plain/kotexutf-core.tex
 \unih@ngulpoint=\count87
 \dhucs@emph@raise=\dimen103
 )
 Now handling font encoding LUC ...
 ... processing UTF-8 mapping file for font encoding LUC
 
-(c:/texlive/2016/texmf-dist/tex/latex/kotex-utf/lucenc.dfu
+(c:/usr/texlive/2016/texmf-dist/tex/latex/kotex-utf/lucenc.dfu
 File: lucenc.dfu 2007/09/05 UTF-8 support for dhucs
    defining Unicode char U+00B7 (decimal 183)
    defining Unicode char U+2018 (decimal 8216)
@@ -402,63 +402,63 @@ File: lucenc.dfu 2007/09/05 UTF-8 support for dhucs
 \@josa=\count88
 \josatoks=\toks16
 
-(c:/texlive/2016/texmf-dist/tex/latex/cjk-ko/kolabels-utf.sty
+(c:/usr/texlive/2016/texmf-dist/tex/latex/cjk-ko/kolabels-utf.sty
 Package: kolabels-utf 2015/03/20 v1.5 UTF-8 Hangul item labels
 )))
-(c:/texlive/2016/texmf-dist/tex/latex/setspace/setspace.sty
+(c:/usr/texlive/2016/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-(c:/texlive/2016/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2016/05/09 v1.1c Standard LaTeX Color (DPC)
+(c:/usr/texlive/2016/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
-(c:/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(c:/usr/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package color Info: Driver file: pdftex.def on input line 144.
+Package color Info: Driver file: pdftex.def on input line 147.
 
-(c:/texlive/2016/texmf-dist/tex/latex/graphics-def/pdftex.def
+(c:/usr/texlive/2016/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
 
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+(c:/usr/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+(c:/usr/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count89
 ))
-(c:/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+(c:/usr/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-(c:/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+(c:/usr/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
 )
-(c:/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+(c:/usr/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
 
-(c:/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+(c:/usr/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(c:/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+(c:/usr/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 96.
+Package graphics Info: Driver file: pdftex.def on input line 99.
 )
 \Gin@req@height=\dimen104
 \Gin@req@width=\dimen105
 )
-(c:/texlive/2016/texmf-dist/tex/latex/geometry/geometry.sty
+(c:/usr/texlive/2016/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+(c:/usr/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
 )
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+(c:/usr/texlive/2016/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-(c:/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+(c:/usr/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count90
@@ -493,12 +493,12 @@ LaTeX Font Info:    Checking defaults for LUC/nanummj/m/n on input line 6.
 LaTeX Font Info:    Try loading font information for LUC+nanummj on input line 
 6.
 
-(c:/texlive/2016/texmf-dist/tex/latex/nanumtype1/lucnanummj.fd
+(c:/usr/texlive/2016/texmf-dist/tex/latex/nanumtype1/lucnanummj.fd
 File: lucnanummj.fd 2013/02/12 v0.1 Nanum Myeongjo font definitions
 )
 LaTeX Font Info:    ... okay on input line 6.
 
-(c:/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(c:/usr/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count93
 \scratchdimen=\dimen114
@@ -511,11 +511,11 @@ LaTeX Font Info:    ... okay on input line 6.
 \MPnumerator=\count97
 \makeMPintoPDFobject=\count98
 \everyMPtoPDFconversion=\toks20
-) (c:/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
+) (c:/usr/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+(c:/usr/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -524,22 +524,22 @@ Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(c:/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+(c:/usr/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-(c:/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
+(c:/usr/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+(c:/usr/texlive/2016/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 ))
-(c:/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(c:/usr/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+(c:/usr/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+(c:/usr/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
@@ -553,7 +553,7 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 
-(c:/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(c:/usr/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
@@ -595,47 +595,48 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 12.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 12.
-<TaeKyeong.jpg, id=1, 542.025pt x 963.6pt>
-File: TaeKyeong.jpg Graphic file (type jpg)
- <use TaeKyeong.jpg>
-Package pdftex.def Info: TaeKyeong.jpg used on input line 27.
-(pdftex.def)             Requested size: 227.62206pt x 404.66513pt.
+<OhMyGirl.jpg, id=1, 451.6875pt x 451.6875pt>
+File: OhMyGirl.jpg Graphic file (type jpg)
+ <use OhMyGirl.jpg>
+Package pdftex.def Info: OhMyGirl.jpg used on input line 27.
+(pdftex.def)             Requested size: 409.71692pt x 409.74052pt.
  [1
 
-{c:/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./TaeKyeong.jpg
->]
+{c:/usr/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./OhMyGirl.
+jpg>]
 (./tabfigexample.aux) ) 
 Here is how much of TeX's memory you used:
- 2713 strings out of 493014
- 37442 string characters out of 6137001
- 108900 words of memory out of 5000000
- 6192 multiletter control sequences out of 15000+600000
+ 2717 strings out of 493013
+ 37870 string characters out of 6135157
+ 108801 words of memory out of 5000000
+ 6197 multiletter control sequences out of 15000+600000
  10043 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,10n,25p,278b,261s stack positions out of 5000i,500n,10000p,200000b,80000s
-<c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmr10.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjm
-ac.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmad.pfb
-><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb0.pfb><c:/t
-exlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb2.pfb><c:/texlive
-/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb3.pfb><c:/texlive/2016/
-texmf-dist/fonts/type1/public/nanumtype1/nanummjmb4.pfb><c:/texlive/2016/texmf-
-dist/fonts/type1/public/nanumtype1/nanummjmb7.pfb><c:/texlive/2016/texmf-dist/f
-onts/type1/public/nanumtype1/nanummjmb8.pfb><c:/texlive/2016/texmf-dist/fonts/t
-ype1/public/nanumtype1/nanummjmb9.pfb><c:/texlive/2016/texmf-dist/fonts/type1/p
-ublic/nanumtype1/nanummjmba.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/
-nanumtype1/nanummjmbc.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumt
-ype1/nanummjmbd.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/n
-anummjmc1.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummj
-mc2.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc5.pf
-b><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc6.pfb><c:/
-texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc7.pfb><c:/texliv
-e/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc8.pfb><c:/texlive/2016
-/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcc.pfb><c:/texlive/2016/texmf
--dist/fonts/type1/public/nanumtype1/nanummjmce.pfb><c:/texlive/2016/texmf-dist/
-fonts/type1/public/nanumtype1/nanummjmd4.pfb><c:/texlive/2016/texmf-dist/fonts/
-type1/public/nanumtype1/nanummjmd5.pfb>
-Output written on tabfigexample.pdf (1 page, 988891 bytes).
+<c:/usr/texlive/2016/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr10.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/
+nanummjmac.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/na
+nummjmad.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanu
+mmjmb0.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumm
+jmb2.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjm
+b3.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb4
+.pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb7.p
+fb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb8.pfb
+><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb9.pfb><
+c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmba.pfb><c:
+/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbc.pfb><c:/u
+sr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbd.pfb><c:/usr
+/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc1.pfb><c:/usr/t
+exlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc2.pfb><c:/usr/tex
+live/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc5.pfb><c:/usr/texli
+ve/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc6.pfb><c:/usr/texlive
+/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc7.pfb><c:/usr/texlive/2
+016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc8.pfb><c:/usr/texlive/201
+6/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcc.pfb><c:/usr/texlive/2016/
+texmf-dist/fonts/type1/public/nanumtype1/nanummjmce.pfb><c:/usr/texlive/2016/te
+xmf-dist/fonts/type1/public/nanumtype1/nanummjmd4.pfb><c:/usr/texlive/2016/texm
+f-dist/fonts/type1/public/nanumtype1/nanummjmd5.pfb>
+Output written on tabfigexample.pdf (1 page, 1036098 bytes).
 PDF statistics:
  101 PDF objects out of 1000 (max. 8388607)
  73 compressed objects within 1 object stream
