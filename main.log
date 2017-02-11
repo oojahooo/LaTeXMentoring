@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2017.1.30)  10 FEB 2017 19:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2017.1.30)  11 FEB 2017 10:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1352,7 +1352,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 10.
  [2] [3]) (./install.tex [4]
-<figures/nhelloworld.png, id=301, 1445.4pt x 813.0375pt>
+<figures/nhelloworld.png, id=311, 1445.4pt x 813.0375pt>
 File: figures/nhelloworld.png Graphic file (type png)
 
 <use figures/nhelloworld.png>
@@ -1365,7 +1365,7 @@ LaTeX Font Info:    Try loading font information for LUC+nanumgt on input line
 (c:/usr/texlive/2016/texmf-dist/tex/latex/nanumtype1/lucnanumgt.fd
 File: lucnanumgt.fd 2013/02/12 v0.1 Nanum Gothic font definitions
 ) [6]
-<figures/helloworld.png, id=336, 1445.4pt x 813.0375pt>
+<figures/helloworld.png, id=346, 1445.4pt x 813.0375pt>
 File: figures/helloworld.png Graphic file (type png)
 
 <use figures/helloworld.png>
@@ -1381,7 +1381,7 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 116.
 ) (./text.tex [9]
-<example/examplepdf.pdf, id=377, 597.50829pt x 845.0471pt>
+<example/examplepdf.pdf, id=387, 597.50829pt x 845.0471pt>
 File: example/examplepdf.pdf Graphic file (type pdf)
 
 <use example/examplepdf.pdf>
@@ -1392,7 +1392,7 @@ File: example/examplepdf.pdf Graphic file (type pdf)
 Package pdftex.def Info: example/examplepdf.pdf used on input line 41.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 
-<example/examplepdf.pdf, id=380, page=1, 597.50829pt x 845.0471pt>
+<example/examplepdf.pdf, id=390, page=1, 597.50829pt x 845.0471pt>
 File: example/examplepdf.pdf Graphic file (type pdf)
 
 <use example/examplepdf.pdf, page 1>
@@ -1430,8 +1430,8 @@ UC/nanummj/m/n/10/d5 ˆ\LUC/nanummj/m/n/10/b4 ï []\OT1/cmtt/m/n/10 \section\OT1/
 cmr/m/n/10 , []\OT1/cmtt/m/n/10 \subsection
  []
 
-[13]) (./advanced_1.tex) (./advanced_2.tex [14]
-<example/mathexamplepdf.pdf, id=615, 597.50829pt x 845.0471pt>
+[13]) (./advanced_1.tex [14]) (./advanced_2.tex [15]
+<example/mathexamplepdf.pdf, id=637, 597.50829pt x 845.0471pt>
 File: example/mathexamplepdf.pdf Graphic file (type pdf)
 
 <use example/mathexamplepdf.pdf>
@@ -1442,7 +1442,7 @@ File: example/mathexamplepdf.pdf Graphic file (type pdf)
 Package pdftex.def Info: example/mathexamplepdf.pdf used on input line 45.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 
-<example/mathexamplepdf.pdf, id=618, page=1, 597.50829pt x 845.0471pt>
+<example/mathexamplepdf.pdf, id=640, page=1, 597.50829pt x 845.0471pt>
 File: example/mathexamplepdf.pdf Graphic file (type pdf)
 
 <use example/mathexamplepdf.pdf, page 1>
@@ -1455,7 +1455,7 @@ File: example/mathexamplepdf.pdf Graphic file (type pdf)
 Package pdftex.def Info: example/mathexamplepdf.pdf, page1 used on input line 4
 5.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [15]
+ [16]
 File: example/mathexamplepdf.pdf Graphic file (type pdf)
 
 <use example/mathexamplepdf.pdf, page 1>
@@ -1474,8 +1474,8 @@ File: example/mathexamplepdf.pdf Graphic file (type pdf)
 Package pdftex.def Info: example/mathexamplepdf.pdf, page1 used on input line 4
 5.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [16 <./example/mathexamplepdf.pdf>]
-[17] [18] <example/tabfigexample.pdf, id=780, 597.50829pt x 845.0471pt>
+ [17 <./example/mathexamplepdf.pdf>]
+[18] [19] <example/tabfigexample.pdf, id=803, 597.50829pt x 845.0471pt>
 File: example/tabfigexample.pdf Graphic file (type pdf)
 
 <use example/tabfigexample.pdf>
@@ -1486,7 +1486,7 @@ File: example/tabfigexample.pdf Graphic file (type pdf)
 Package pdftex.def Info: example/tabfigexample.pdf used on input line 179.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 
-<example/tabfigexample.pdf, id=783, page=1, 597.50829pt x 845.0471pt>
+<example/tabfigexample.pdf, id=806, page=1, 597.50829pt x 845.0471pt>
 File: example/tabfigexample.pdf Graphic file (type pdf)
 
 <use example/tabfigexample.pdf, page 1>
@@ -1499,7 +1499,7 @@ File: example/tabfigexample.pdf Graphic file (type pdf)
 Package pdftex.def Info: example/tabfigexample.pdf, page1 used on input line 17
 9.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [19]
+ [20]
 File: example/tabfigexample.pdf Graphic file (type pdf)
 
 <use example/tabfigexample.pdf, page 1>
@@ -1518,8 +1518,8 @@ File: example/tabfigexample.pdf Graphic file (type pdf)
 Package pdftex.def Info: example/tabfigexample.pdf, page1 used on input line 17
 9.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [20 <./example/tabfigexample.pdf>]
-[21] [22]) (./appendix.tex [23] [24]) [25]
+ [21 <./example/tabfigexample.pdf>]
+[22] [23]) (./appendix.tex [24] [25]) [26]
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
@@ -1529,18 +1529,18 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 26.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 26.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 26.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 803303871FE0C0BEC5B1C9CB29128955;2881.
+(rerunfilecheck)             Checksum: 7A89DC7C375CC94EA8D6369C41C1D89D;3217.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 26.
  ) 
 Here is how much of TeX's memory you used:
- 23298 strings out of 493013
- 379372 string characters out of 6135157
- 560268 words of memory out of 5000000
- 26138 multiletter control sequences out of 15000+600000
- 68748 words of font info for 236 fonts, out of 8000000 for 9000
+ 23311 strings out of 493013
+ 379618 string characters out of 6135157
+ 560456 words of memory out of 5000000
+ 26143 multiletter control sequences out of 15000+600000
+ 69049 words of font info for 237 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,18n,48p,10420b,653s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{Hfootnote.12} has been referenced but does not ex
+pdfTeX warning (dest): name{Hfootnote.13} has been referenced but does not ex
 ist, replaced by a fixed one
 
 <c:/usr/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/u
@@ -1671,10 +1671,10 @@ pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd5.pf
 b><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd6.pfb>
 <c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd7.pfb><c
 :/usr/texlive/2016/texmf-dist/fonts/type1/uhc/umj/umj02.pfb>
-Output written on main.pdf (25 pages, 5076444 bytes).
+Output written on main.pdf (26 pages, 5089010 bytes).
 PDF statistics:
- 1397 PDF objects out of 1440 (max. 8388607)
- 1043 compressed objects within 11 object streams
- 114 named destinations out of 1000 (max. 500000)
- 435 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1421 PDF objects out of 1440 (max. 8388607)
+ 1066 compressed objects within 11 object streams
+ 121 named destinations out of 1000 (max. 500000)
+ 451 words of extra memory for PDF output out of 10000 (max. 10000000)
 

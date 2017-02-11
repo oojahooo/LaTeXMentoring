@@ -17,6 +17,8 @@
    (add-to-list 'LaTeX-verbatim-macros-with-delims-local "path")
    (add-to-list 'LaTeX-verbatim-macros-with-delims-local "Verb")
    (LaTeX-add-labels
-    "sec:adv"))
+    "sec:adv"
+    "sec:advanced-documentclass"
+    "sec:advanced-package"))
  :latex)
 
