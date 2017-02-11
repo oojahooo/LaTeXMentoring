@@ -26,11 +26,8 @@ indentfirst
 setspace
 amsmath
 ** 다양한 기본 기능 알아보기
-글씨크기lo
 정렬(center, flushleft, flushright)
 verbatim
-label & reference
-citation은 따로 설명하지 않겠다.
 ** 수식넣기
 가장 중요
 ** 표만들기 & 그림넣기
