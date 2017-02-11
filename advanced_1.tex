@@ -61,14 +61,21 @@ Hello, world!
 와 같은 방식으로 이미 정의된 setspace 설정을 바꿀 수 있습니다.
 참고로 oblivoir class의 경우에는 줄 간격이 한글에 적합하게 설정되어 있습니다.
 영문 문서를 작성할 때 쓰이는  class들과 기본 설정에 차이가 있으니 유의해 주세요.
-\item[indentfirst] 는 그다지 많은 기능을 가진 package가 아닙니다.
-\item[float] 
-\item[morefloats] 
+\item[indentfirst] 는 그다지 많은 기능을 가진 package가 아닙니다. 그냥 첫 번째 문단을 들여쓰기 해 주는 역할을 하죠. 첫 번째 문단을 들여쓰기 할 것인지에 대한 문제는 상당히 의미 없으면서도 논란이 되기도 하는 문제입니다. 그렇지만 결국 특정한 문서 형식을 만족시켜야 하는 경우가 아니라면 이는 저작자의 취향에 달린 문제이기도 하죠. \lt 는 기본적으로 첫 번째 문단을 들여쓰기하지 않습니다. 그렇지만 만약 하고 싶으시다면 preamble에 \verb|\usepackage{indentfirst}|를 추가해 주세요.
+
+\item[float] 이 package는 \ref{subsec:tabfig}장을 읽고 나신 후에 그 유용함을 알게 되실 겁니다. 이 package를 사용하면 figure를 보다 쉽게 설정할 수 있습니다. Preamble에 \verb|\usepackage{float}|을 추가하시면 figure 위치 지정에 \verb|H|라는 위치 인자를 이용하실 수 있는데 이는 !를 이용한 위치 지정과 유사하게 figure를 강제로 원하는 위치에 고정시킵니다. 또한
+\begin{Verbatim}
+\floatstyle{boxed}
+\restylefloat{figure}
+\end{Verbatim}
+등을 통해 figure에 테두리를 추가하는 등 다양한 작업이 가능합니다.
+
+\item[morefloats] \ref{subsec:tabfig}장에서는 float, 떠다니는 개체에 대해 다룹니다. 그런데 \lt 는 기본적으로 떠다니는 개체를 18개까지만 다룰 수 있습니다. 만약 더 많은 수를 다루고 싶다면 \verb|morefloats| package를 활용해야 하죠.
 \end{description}
 
 \subsection{유용한 환경 알아보기}
 \label{sec:advanced-environment}
-
+이 장에서는 \lt 의 유용한 환경(envorinment)에 대해 다루도록 하겠습니다. \lt 은 
 
 
 

@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2017.1.30)  11 FEB 2017 19:41
-=======
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2016.8.24)  11 FEB 2017 21:05
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2017.1.30)  11 FEB 2017 19:35
->>>>>>> origin/master
->>>>>>> origin/master
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2017.1.30)  11 FEB 2017 22:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1116,9 +1108,6 @@ HANGUL DRIVER: kotex-utf
 Package: kotex 2015/04/19 v1.6 Korean TeX (ko.TeX)
 
 (c:/usr/texlive/2016/texmf-dist/tex/latex/kotex-utf/kotex.cfg))
-(c:/usr/texlive/2016/texmf-dist/tex/latex/tools/indentfirst.sty
-Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
-)
 (c:/usr/texlive/2016/texmf-dist/tex/latex/lipsum/lipsum.sty
 Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
 \c@lips@count=\count182
@@ -1360,22 +1349,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--7
 / LaTeX % 20-[] % 20User '[] s % 20Guide % 20and % 20Reference %
  []
 
-
-Overfull \hbox (0.66566pt too wide) in paragraph at lines 4--10
-[]\LUC/nanummj/m/n/10/c7 t ê\LUC/nanummj/m/n/10/b8 Ã\LUC/nanummj/m/n/10/b2 î \L
-UC/nanummj/m/n/10/d5 \\LUC/nanummj/m/n/10/ad m\LUC/nanummj/m/n/10/ac ¸\LUC/nanu
-mmj/m/n/10/d5 Y\LUC/nanummj/m/n/10/c6 ^^A\LUC/nanummj/m/n/10/c7 ¨\LUC/nanummj/m
-/n/10/d5 Y\LUC/nanummj/m/n/10/ad P \LUC/nanummj/m/n/10/d5 Y\LUC/nanummj/m/n/10/
-c0 ›\LUC/nanummj/m/n/10/c7 D ^^D\LUC/nanummj/m/n/10/d5 \ \OT1/cmr/m/n/10 L[]T[]
-X \LUC/nanummj/m/n/10/ba X\LUC/nanummj/m/n/10/d1 †\LUC/nanummj/m/n/10/b9 ¡ \LUC
-/nanummj/m/n/10/c7 ê\LUC/nanummj/m/n/10/b8 Ã\LUC/nanummj/m/n/10/c7 Ö\LUC/nanumm
-j/m/n/10/b2 »‰[] \LUC/nanummj/m/n/10/c7 Ö\LUC/nanummj/m/n/10/bb 8\LUC/nanummj/m
-/n/10/c7 ê\LUC/nanummj/m/n/10/b9 | \LUC/nanummj/m/n/10/c7 ^^D\LUC/nanummj/m/n/1
-0/d5 t \LUC/nanummj/m/n/10/c1 $\LUC/nanummj/m/n/10/ac ƒ\LUC/nanummj/m/n/10/b4 ^
-^X\LUC/nanummj/m/n/10/c5 »\LUC/nanummj/m/n/10/c7 <\LUC/nanummj/m/n/10/ba p\OT1/
-cmr/m/n/10 , L[]T[]X
- []
-
 [1
 
 {c:/usr/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
@@ -1396,13 +1369,17 @@ LaTeX Font Info:    Try loading font information for LUC+nanumgt on input line
 (c:/usr/texlive/2016/texmf-dist/tex/latex/nanumtype1/lucnanumgt.fd
 File: lucnanumgt.fd 2013/02/12 v0.1 Nanum Gothic font definitions
 )
-<figures/helloworld.png, id=335, 1445.4pt x 813.0375pt>
+<figures/helloworld.png, id=336, 1445.4pt x 813.0375pt>
 File: figures/helloworld.png Graphic file (type png)
 
 <use figures/helloworld.png>
 Package pdftex.def Info: figures/helloworld.png used on input line 72.
 (pdftex.def)             Requested size: 455.24411pt x 256.07095pt.
- [6] [7 <./figures/helloworld.png>]
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[6] [7 <./figures/helloworld.png>]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 115.
 
 
@@ -1468,7 +1445,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--11
  []
 
 [14] [15]) (./advanced_2.tex [16]
-<example/mathexamplepdf.pdf, id=650, 597.50829pt x 845.0471pt>
+<example/mathexamplepdf.pdf, id=652, 597.50829pt x 845.0471pt>
 File: example/mathexamplepdf.pdf Graphic file (type pdf)
 
 <use example/mathexamplepdf.pdf>
@@ -1479,7 +1456,7 @@ File: example/mathexamplepdf.pdf Graphic file (type pdf)
 Package pdftex.def Info: example/mathexamplepdf.pdf used on input line 45.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 
-<example/mathexamplepdf.pdf, id=653, page=1, 597.50829pt x 845.0471pt>
+<example/mathexamplepdf.pdf, id=655, page=1, 597.50829pt x 845.0471pt>
 File: example/mathexamplepdf.pdf Graphic file (type pdf)
 
 <use example/mathexamplepdf.pdf, page 1>
@@ -1512,95 +1489,55 @@ Package pdftex.def Info: example/mathexamplepdf.pdf, page1 used on input line 4
 5.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [18 <./example/mathexamplepdf.pdf>]
-<<<<<<< HEAD
-[19] <figures/t1.png, id=792, 439.04025pt x 238.491pt>
+[19] <figures/t1.png, id=796, 439.04025pt x 238.491pt>
 File: figures/t1.png Graphic file (type png)
  <use figures/t1.png>
 Package pdftex.def Info: figures/t1.png used on input line 114.
 (pdftex.def)             Requested size: 455.24411pt x 247.29695pt.
 
 [20 <./figures/t1.png>] [21]
-<example/tabfigexample.pdf, id=822, 597.50829pt x 845.0471pt>
+<example/tabfigexample.pdf, id=825, 597.50829pt x 845.0471pt>
 File: example/tabfigexample.pdf Graphic file (type pdf)
 
 <use example/tabfigexample.pdf>
-Package pdftex.def Info: example/tabfigexample.pdf used on input line 192.
+Package pdftex.def Info: example/tabfigexample.pdf used on input line 193.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: example/tabfigexample.pdf Graphic file (type pdf)
  <use example/tabfigexample.pdf>
-Package pdftex.def Info: example/tabfigexample.pdf used on input line 192.
+Package pdftex.def Info: example/tabfigexample.pdf used on input line 193.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 
-<example/tabfigexample.pdf, id=825, page=1, 597.50829pt x 845.0471pt>
+<example/tabfigexample.pdf, id=828, page=1, 597.50829pt x 845.0471pt>
 File: example/tabfigexample.pdf Graphic file (type pdf)
 
 <use example/tabfigexample.pdf, page 1>
 Package pdftex.def Info: example/tabfigexample.pdf, page1 used on input line 19
-2.
-=======
-[19] [20] <example/tabfigexample.pdf, id=815, 597.50829pt x 845.0471pt>
-File: example/tabfigexample.pdf Graphic file (type pdf)
-
-<use example/tabfigexample.pdf>
-Package pdftex.def Info: example/tabfigexample.pdf used on input line 180.
-(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-File: example/tabfigexample.pdf Graphic file (type pdf)
- <use example/tabfigexample.pdf>
-Package pdftex.def Info: example/tabfigexample.pdf used on input line 180.
-(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-
-<example/tabfigexample.pdf, id=818, page=1, 597.50829pt x 845.0471pt>
-File: example/tabfigexample.pdf Graphic file (type pdf)
-
-<use example/tabfigexample.pdf, page 1>
-Package pdftex.def Info: example/tabfigexample.pdf, page1 used on input line 18
-0.
->>>>>>> origin/master
+3.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: example/tabfigexample.pdf Graphic file (type pdf)
 
 <use example/tabfigexample.pdf, page 1>
-<<<<<<< HEAD
 Package pdftex.def Info: example/tabfigexample.pdf, page1 used on input line 19
-2.
-=======
-Package pdftex.def Info: example/tabfigexample.pdf, page1 used on input line 18
-0.
->>>>>>> origin/master
+3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [22]
 File: example/tabfigexample.pdf Graphic file (type pdf)
 
 <use example/tabfigexample.pdf, page 1>
-<<<<<<< HEAD
 Package pdftex.def Info: example/tabfigexample.pdf, page1 used on input line 19
-2.
-=======
-Package pdftex.def Info: example/tabfigexample.pdf, page1 used on input line 18
-0.
->>>>>>> origin/master
+3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: example/tabfigexample.pdf Graphic file (type pdf)
 
 <use example/tabfigexample.pdf, page 1>
-<<<<<<< HEAD
 Package pdftex.def Info: example/tabfigexample.pdf, page1 used on input line 19
-2.
-=======
-Package pdftex.def Info: example/tabfigexample.pdf, page1 used on input line 18
-0.
->>>>>>> origin/master
+3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: example/tabfigexample.pdf Graphic file (type pdf)
 
 <use example/tabfigexample.pdf, page 1>
-<<<<<<< HEAD
 Package pdftex.def Info: example/tabfigexample.pdf, page1 used on input line 19
-2.
-=======
-Package pdftex.def Info: example/tabfigexample.pdf, page1 used on input line 18
-0.
->>>>>>> origin/master
+3.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [23 <./example/tabfigexample.pdf>]
 [24] [25]) (./appendix.tex [26] [27]) [28]
@@ -1613,166 +1550,20 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 26.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 26.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 26.
 Package rerunfilecheck Info: File `main.out' has not changed.
-<<<<<<< HEAD
 (rerunfilecheck)             Checksum: 9C83F7A6A53341733E6EA847F9FE5003;3343.
-
-
-LaTeX Warning: There were undefined references.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 26.
  ) 
 Here is how much of TeX's memory you used:
- 23224 strings out of 493014
- 377071 string characters out of 6137001
- 559009 words of memory out of 5000000
- 26057 multiletter control sequences out of 15000+600000
+ 23306 strings out of 493013
+ 379428 string characters out of 6135157
+ 561531 words of memory out of 5000000
+ 26143 multiletter control sequences out of 15000+600000
  68462 words of font info for 235 fonts, out of 8000000 for 9000
-=======
-(rerunfilecheck)             Checksum: 2A20651DEC8A674889F83509B75E8C5E;3367.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 26.
- ) 
-Here is how much of TeX's memory you used:
- 23311 strings out of 493013
- 379650 string characters out of 6135157
- 561613 words of memory out of 5000000
- 26146 multiletter control sequences out of 15000+600000
- 69049 words of font info for 237 fonts, out of 8000000 for 9000
->>>>>>> origin/master
  1141 hyphenation exceptions out of 8191
  68i,18n,48p,10420b,699s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{Hfootnote.13} has been referenced but does not ex
 ist, replaced by a fixed one
 
-<<<<<<< HEAD
-<c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texli
-ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2016/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><c:/texlive/2016/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2016/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmmi7.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmr10.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.p
-fb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texl
-ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2016/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2016/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2016/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmti10.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmtt10.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmtt8.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtm3
-1.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmac.pfb>
-<c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmad.pfb><c:/te
-xlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmae.pfb><c:/texlive/
-2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmb0.pfb><c:/texlive/2016/t
-exmf-dist/fonts/type1/public/nanumtype1/nanumgtmb1.pfb><c:/texlive/2016/texmf-d
-ist/fonts/type1/public/nanumtype1/nanumgtmb2.pfb><c:/texlive/2016/texmf-dist/fo
-nts/type1/public/nanumtype1/nanumgtmb3.pfb><c:/texlive/2016/texmf-dist/fonts/ty
-pe1/public/nanumtype1/nanumgtmb4.pfb><c:/texlive/2016/texmf-dist/fonts/type1/pu
-blic/nanumtype1/nanumgtmb5.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/n
-anumtype1/nanumgtmb7.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumty
-pe1/nanumgtmb8.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/na
-numgtmb9.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtm
-ba.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmbb.pfb
-><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmbc.pfb><c:/t
-exlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmbd.pfb><c:/texlive
-/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc1.pfb><c:/texlive/2016/
-texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc2.pfb><c:/texlive/2016/texmf-
-dist/fonts/type1/public/nanumtype1/nanumgtmc5.pfb><c:/texlive/2016/texmf-dist/f
-onts/type1/public/nanumtype1/nanumgtmc6.pfb><c:/texlive/2016/texmf-dist/fonts/t
-ype1/public/nanumtype1/nanumgtmc7.pfb><c:/texlive/2016/texmf-dist/fonts/type1/p
-ublic/nanumtype1/nanumgtmc8.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/
-nanumtype1/nanumgtmc9.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumt
-ype1/nanumgtmcc.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/n
-anumgtmce.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgt
-md0.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd1.pf
-b><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd3.pfb><c:/
-texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd4.pfb><c:/texliv
-e/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd5.pfb><c:/texlive/2016
-/texmf-dist/fonts/type1/public/nanumtype1/nanummjbac.pfb><c:/texlive/2016/texmf
--dist/fonts/type1/public/nanumtype1/nanummjbad.pfb><c:/texlive/2016/texmf-dist/
-fonts/type1/public/nanumtype1/nanummjbae.pfb><c:/texlive/2016/texmf-dist/fonts/
-type1/public/nanumtype1/nanummjbaf.pfb><c:/texlive/2016/texmf-dist/fonts/type1/
-public/nanumtype1/nanummjbb0.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public
-/nanumtype1/nanummjbb1.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanum
-type1/nanummjbb2.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/
-nanummjbb3.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumm
-jbb4.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb5.p
-fb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb7.pfb><c:
-/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb8.pfb><c:/texli
-ve/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb9.pfb><c:/texlive/201
-6/texmf-dist/fonts/type1/public/nanumtype1/nanummjbba.pfb><c:/texlive/2016/texm
-f-dist/fonts/type1/public/nanumtype1/nanummjbbb.pfb><c:/texlive/2016/texmf-dist
-/fonts/type1/public/nanumtype1/nanummjbbc.pfb><c:/texlive/2016/texmf-dist/fonts
-/type1/public/nanumtype1/nanummjbbd.pfb><c:/texlive/2016/texmf-dist/fonts/type1
-/public/nanumtype1/nanummjbbe.pfb><c:/texlive/2016/texmf-dist/fonts/type1/publi
-c/nanumtype1/nanummjbc0.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanu
-mtype1/nanummjbc1.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1
-/nanummjbc2.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanum
-mjbc4.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc5.
-pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc6.pfb><c
-:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc7.pfb><c:/texl
-ive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc8.pfb><c:/texlive/20
-16/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc9.pfb><c:/texlive/2016/tex
-mf-dist/fonts/type1/public/nanumtype1/nanummjbcc.pfb><c:/texlive/2016/texmf-dis
-t/fonts/type1/public/nanumtype1/nanummjbcd.pfb><c:/texlive/2016/texmf-dist/font
-s/type1/public/nanumtype1/nanummjbce.pfb><c:/texlive/2016/texmf-dist/fonts/type
-1/public/nanumtype1/nanummjbcf.pfb><c:/texlive/2016/texmf-dist/fonts/type1/publ
-ic/nanumtype1/nanummjbd0.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nan
-umtype1/nanummjbd1.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype
-1/nanummjbd2.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanu
-mmjbd3.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd4
-.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd5.pfb><
-c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd6.pfb><c:/tex
-live/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmac.pfb><c:/texlive/2
-016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmad.pfb><c:/texlive/2016/te
-xmf-dist/fonts/type1/public/nanumtype1/nanummjmae.pfb><c:/texlive/2016/texmf-di
-st/fonts/type1/public/nanumtype1/nanummjmaf.pfb><c:/texlive/2016/texmf-dist/fon
-ts/type1/public/nanumtype1/nanummjmb0.pfb><c:/texlive/2016/texmf-dist/fonts/typ
-e1/public/nanumtype1/nanummjmb1.pfb><c:/texlive/2016/texmf-dist/fonts/type1/pub
-lic/nanumtype1/nanummjmb2.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/na
-numtype1/nanummjmb3.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtyp
-e1/nanummjmb4.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nan
-ummjmb4.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb
-5.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb6.pfb>
-<c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb7.pfb><c:/te
-xlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb8.pfb><c:/texlive/
-2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb9.pfb><c:/texlive/2016/t
-exmf-dist/fonts/type1/public/nanumtype1/nanummjmba.pfb><c:/texlive/2016/texmf-d
-ist/fonts/type1/public/nanumtype1/nanummjmbb.pfb><c:/texlive/2016/texmf-dist/fo
-nts/type1/public/nanumtype1/nanummjmbc.pfb><c:/texlive/2016/texmf-dist/fonts/ty
-pe1/public/nanumtype1/nanummjmbd.pfb><c:/texlive/2016/texmf-dist/fonts/type1/pu
-blic/nanumtype1/nanummjmbe.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/n
-anumtype1/nanummjmbf.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumty
-pe1/nanummjmc0.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/na
-nummjmc1.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjm
-c1.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc2.pfb
-><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc3.pfb><c:/t
-exlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc4.pfb><c:/texlive
-/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc5.pfb><c:/texlive/2016/
-texmf-dist/fonts/type1/public/nanumtype1/nanummjmc5.pfb><c:/texlive/2016/texmf-
-dist/fonts/type1/public/nanumtype1/nanummjmc6.pfb><c:/texlive/2016/texmf-dist/f
-onts/type1/public/nanumtype1/nanummjmc7.pfb><c:/texlive/2016/texmf-dist/fonts/t
-ype1/public/nanumtype1/nanummjmc8.pfb><c:/texlive/2016/texmf-dist/fonts/type1/p
-ublic/nanumtype1/nanummjmc9.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/
-nanumtype1/nanummjmca.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumt
-ype1/nanummjmcb.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/n
-anummjmcc.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummj
-mcd.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmce.pf
-b><c:/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcf.pfb><c:/
-texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd0.pfb><c:/texliv
-e/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd1.pfb><c:/texlive/2016
-/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd2.pfb><c:/texlive/2016/texmf
--dist/fonts/type1/public/nanumtype1/nanummjmd3.pfb><c:/texlive/2016/texmf-dist/
-fonts/type1/public/nanumtype1/nanummjmd4.pfb><c:/texlive/2016/texmf-dist/fonts/
-type1/public/nanumtype1/nanummjmd5.pfb><c:/texlive/2016/texmf-dist/fonts/type1/
-public/nanumtype1/nanummjmd6.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public
-/nanumtype1/nanummjmd7.pfb><c:/texlive/2016/texmf-dist/fonts/type1/uhc/umj/umj0
-2.pfb>
-Output written on main.pdf (28 pages, 5158623 bytes).
-PDF statistics:
- 1438 PDF objects out of 1440 (max. 8388607)
- 1079 compressed objects within 11 object streams
- 120 named destinations out of 1000 (max. 500000)
- 464 words of extra memory for PDF output out of 10000 (max. 10000000)
-=======
 <c:/usr/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/u
 sr/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/usr/te
 xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><c:/usr/texlive/
@@ -1901,11 +1692,10 @@ pfb><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd5.pf
 b><c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd6.pfb>
 <c:/usr/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd7.pfb><c
 :/usr/texlive/2016/texmf-dist/fonts/type1/uhc/umj/umj02.pfb>
-Output written on main.pdf (27 pages, 5147089 bytes).
+Output written on main.pdf (28 pages, 5160792 bytes).
 PDF statistics:
- 1431 PDF objects out of 1440 (max. 8388607)
- 1075 compressed objects within 11 object streams
- 118 named destinations out of 1000 (max. 500000)
- 459 words of extra memory for PDF output out of 10000 (max. 10000000)
->>>>>>> origin/master
+ 1441 PDF objects out of 1728 (max. 8388607)
+ 1082 compressed objects within 11 object streams
+ 120 named destinations out of 1000 (max. 500000)
+ 464 words of extra memory for PDF output out of 10000 (max. 10000000)
 
