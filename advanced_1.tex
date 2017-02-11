@@ -2,18 +2,16 @@
 
 \section{좀 더 구체적으로}
 \label{sec:adv}
-\subsection*{}
 \ref{sec:text}장에서는 기본적인 문서의 구조와 다양한 명령어들을 사용하는 기본적인 방법에 대해서 익혔습니다.
 그렇지만 사실 \lt 에는 기능이 무수히 많고, \lt 을 워드프로세서와 같이, 그리고 그 이상의 수준으로 사용하기 위해서는 이를 익힐 필요가 있습니다.
 물론 모든 기능을 익힐 필요는 없고, 익힐 수도 없겠죠.
 그렇기 때문에 기본적인 기능을 익힌 뒤에는 자신이 자주 작성하는 문서에 사용되는 기능들을 위주로 필요할 때마다 알아 나가는 것이 바람직합니다.
 지금부터 설명할 내용은 참고할 만한 기능들 중 비교적 유용하다 생각하는 것들을 모아 놓은 것들입니다.
 한 번 훑어 보시고 필요할 때마다 찾아 쓰시는 게 바람직할 겁니다.
-복잡하고 자주 사용되지 않는 기능들은 여기에 언급하지 않았으니 필요하시다면 보다 전문적인 매뉴얼\footnote{\url{https://tobi.oetiker.ch/lshort/lshort.pdf}}이나, 인터넷 검색을 활용하시면 됩니다.
+복잡하고 자주 사용되지 않는 기능들은 여기에 언급하지 않았으니 필요하시다면 보다 전문적인 매뉴얼\footnote{\url{https://tobi.oetiker.ch/lshort/lshort.pdf}\\ \url{http://users.softlab.ntua.gr/~sivann/books/LaTeX\%20-\%20User's\%20Guide\%20and\%20Reference\%20Manual-lamport94.pdf}}이나, 인터넷 검색을 활용하시면 됩니다.
 
 \subsection{documentclass에 대하여}
 \label{sec:advanced-documentclass}
-\subsubsection*{}
 여기서는 문서 작성에 사용할만한 documentclass에 대해 보다 자세히 살펴보도록 하겠습니다.
 위에서는 article class만 사용했지만 사실 다른 class도 자주 사용되거든요.
 일반적인 문서를 작성할 때에는 article class보다는 memoir class가 더 자주 사용됩니다.
@@ -28,17 +26,51 @@ memoir class는 여러 외부 패키지들을 모아 하나의 class로 만든 �
 \paragraph{다른 유용한 class들}
 일반적이지 않은 문서 작성을 하실 때에는 \lt 의 다른 class들을 눈여겨 보시는 것이 좋습니다.
 특정 작업에 특화된 다양한 class들이 있기 때문에 만약 관련 작업들을 하신다면 그런 class를 사용하는게 바람직하겠죠. 표~\ref{subsec:dctable}에서는 \lt 에 있어서 상당히 기본적인 class만을 모아 설명하고 있습니다만, 그것 말고도 유용한 class가 몇 가지 있거든요. 여기서는 표~\ref{subsec:dctable}에서 언급된 것을 포함한 몇 가지 class들의 특징들을 설명하도록 하겠습니다.
-\begin{itemize}
-\item book class는 말 그대로 책을 만들 때 사용됩니다. 좌우로 펼쳐 보는 책이기 때문에 홀/짝 페이지별로 좌우 여백이 다르다는 것이 다른 class와의 가장 큰 차이라고 생각하시면 됩니다.
-\item beamer class는 프레젠테이션 자료를 만들 때 사용됩니다. 일반적으로 프레젠테이션 자료를 만들 때는 powerpoint나 keynote 등의 프로그램을 사용합니다만, \lt 으로도 상당히 다양한 시각적 효과를 가진 프레젠테이션 자료를 만드는 것이 가능합니다. \lt 으로 프레젠테이션 자료를 만들 때 장점은 구조화된 문서, 수식 입력의 편의성 등을 들 수 있겠습니다. 윤상현 선생님의 프레젠테이션 자료를 생각하시면 이해가 쉬울 겁니다. 그렇지만 특별히 구조화된 프레젠테이션을 하고, \lt 의 기능을 이용하고자 하는 게 아니라면 IguanaTeX와 같은 powerpoint 용 \lt 수식 플러그인 등을 사용하는 것도 하나의 방법입니다.
-\item standalone class는 용지의 크기가 정해져 있지 않고, 내용에 맞게 크기가 변합니다. 수식 몇 줄을 기록해 두는 용도로 깔끔하고 유용하죠.
-\item exam class는 시험지를 만드는 데 특화된 class입니다. 파일 하나로 답안이 표시된 파일과 그렇지 않은 파일을 만들고, 배점을 정하는 등의 기능이 있죠.
-\end{itemize}
+\begin{description}
+\item[book] class는 말 그대로 책을 만들 때 사용됩니다. 좌우로 펼쳐 보는 책이기 때문에 홀/짝 페이지별로 좌우 여백이 다르다는 것이 다른 class와의 가장 큰 차이라고 생각하시면 됩니다.
+\item[beamer] class는 프레젠테이션 자료를 만들 때 사용됩니다. 일반적으로 프레젠테이션 자료를 만들 때는 powerpoint나 keynote 등의 프로그램을 사용합니다만, \lt 으로도 상당히 다양한 시각적 효과를 가진 프레젠테이션 자료를 만드는 것이 가능합니다. \lt 으로 프레젠테이션 자료를 만들 때 장점은 구조화된 문서, 수식 입력의 편의성 등을 들 수 있겠습니다. 윤상현 선생님의 프레젠테이션 자료를 생각하시면 이해가 쉬울 겁니다. 그렇지만 특별히 구조화된 프레젠테이션을 하고, \lt 의 기능을 이용하고자 하는 게 아니라면 IguanaTeX와 같은 powerpoint 용 \lt 수식 작성 플러그인 등을 사용하는 것도 하나의 방법입니다.
+\item[standalone] class는 용지의 크기가 정해져 있지 않고, 내용에 맞게 크기가 변합니다. 수식 몇 줄을 기록해 두는 용도로 깔끔하고 유용하죠.
+\item[exam] class는 시험지를 만드는 데 특화된 class입니다. 파일 하나로 답안이 표시된 파일과 그렇지 않은 파일을 만들고, 배점을 정하는 등의 기능이 있죠. 멘토링 자료를 만들 때 유용합니다.
+\end{description}
 이를 제외하고도 \lt 에는 독특한 class들이 있습니다만, 자주 사용되지는 않을 겁니다.
 여기서 언급한 class들도 그다지 자주 사용할 일은 없겠지만요.
 
 \subsection{유용한 package 알아보기}
 \label{sec:advanced-package}
+여기서는 \lt 의 몇 가지 유용한 package를 알아보도록 하겠습니다.
+\lt 은 수많은 package를 어떻게 활용하냐에 따라 훨씬 보기 좋은 문서를 쉽게 만들 수 있습니다.
+물론 package 역시 수가 많고 계속 발전하고 있기 때문에 모두 익히기는 어렵습니다.
+여기서는 몇 가지 자주 사용되는 package의 사용법을 정리해 보도록 하겠습니다.
+나중에 \lt 으로 특정 기능을 구현하고 싶다면 인터넷에 검색해 어떤 package를 사용하는 게 좋을 지 알아보세요. \verb|kotex|, \verb|geometry|, \verb|amsmath|, \verb|amssymb|, \verb|graphicx| 등의 일부 package는 각각 \ref{sec:text-preamble}장, \ref{subsec:ams-package}장, \ref{sec:advanced_2-pic}장 등에서 설명하기 때문에 따로 언급하지 않겠습니다.
+\begin{description}
+\item[setspace] package는 줄 간격을 조절할 때 사용됩니다. option을 어떻게 주냐에 따라 더블스페이싱 등을 설정할 수 있죠.
+\begin{Verbatim}
+\usepackage[doublespacing]{setspace}  \usepackage[onehalfspacing]{setspace}
+\end{Verbatim}
+등을 이용하면 됩니다.\verb|\doublespacing| 등의 명령을 사용하는 것도 가능합니다. 그렇지만 memoir, oblivoir class를 사용할 경우 class 내에서 이미 setspace package가 설정되어 있기 때문에 이를 바로 사용할 수 없습니다.
+\begin{Verbatim}
+\begin{Spacing}{2}
+Hello, world!
+\end{Spacing}
+\end{Verbatim}
+과 같이 memoir계열 class의 기능인 Spacing envoriment를 사용하거나
+\begin{Verbatim}
+\DisemulatePackage{setspace}
+\usepackage{setspace}
+\end{Verbatim}
+와 같은 방식으로 이미 정의된 setspace 설정을 바꿀 수 있습니다.
+참고로 oblivoir class의 경우에는 줄 간격이 한글에 적합하게 설정되어 있습니다.
+영문 문서를 작성할 때 쓰이는  class들과 기본 설정에 차이가 있으니 유의해 주세요.
+\item[indentfirst] 는 그다지 많은 기능을 가진 package가 아닙니다.
+\item[float] 
+\item[morefloats] 
+\end{description}
+
+\subsection{유용한 환경 알아보기}
+\label{sec:advanced-environment}
+
+
+
 
 
 %%% Local Variables:

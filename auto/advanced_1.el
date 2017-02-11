@@ -1,6 +1,8 @@
 (TeX-add-style-hook
  "advanced_1"
  (lambda ()
+   (TeX-add-to-alist 'LaTeX-provided-package-options
+                     '(("setspace" "doublespacing" "onehalfspacing")))
    (add-to-list 'LaTeX-verbatim-environments-local "VerbatimOut")
    (add-to-list 'LaTeX-verbatim-environments-local "SaveVerbatim")
    (add-to-list 'LaTeX-verbatim-environments-local "LVerbatim")
@@ -16,9 +18,12 @@
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "Verb")
    (add-to-list 'LaTeX-verbatim-macros-with-delims-local "path")
    (add-to-list 'LaTeX-verbatim-macros-with-delims-local "Verb")
+   (TeX-run-style-hooks
+    "setspace")
    (LaTeX-add-labels
     "sec:adv"
     "sec:advanced-documentclass"
-    "sec:advanced-package"))
+    "sec:advanced-package"
+    "sec:advanced-environment"))
  :latex)
 

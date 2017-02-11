@@ -2,22 +2,22 @@
 \contentsline {section}{\numberline {1}\LaTeX 이해하기}{2}{section.0.1}
 \contentsline {subsection}{\numberline {1.1}\LaTeX 이란 무엇인가요?}{2}{subsection.0.1.1}
 \contentsline {subsection}{\numberline {1.2}왜 \LaTeX 을 사용하나요?}{2}{subsection.0.1.2}
-\contentsline {subsubsection}{\numberline {1.2.1}구조화\& 규격화된 문서}{3}{subsubsection.0.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.1}구조화\& 규격화된 문서}{2}{subsubsection.0.1.2.1}
 \contentsline {subsubsection}{\numberline {1.2.2}간편한 수식 입력}{3}{subsubsection.0.1.2.2}
 \contentsline {subsubsection}{\numberline {1.2.3}안정성과 이식성}{3}{subsubsection.0.1.2.3}
-\contentsline {subsubsection}{\numberline {1.2.4}수많은 확장 기능}{4}{subsubsection.0.1.2.4}
+\contentsline {subsubsection}{\numberline {1.2.4}수많은 확장 기능}{3}{subsubsection.0.1.2.4}
 \contentsline {section}{\numberline {2}\LaTeX 시작하기}{4}{section.0.2}
 \contentsline {subsection}{\numberline {2.1}\LaTeX 설치하기}{4}{subsection.0.2.1}
-\contentsline {paragraph}{T\kern -.1667em\lower .5ex\hbox {E}\kern -.125emX\spacefactor \@m {}Live}{4}{section*.6}
-\contentsline {paragraph}{ShareLaTeX}{4}{section*.7}
-\contentsline {paragraph}{Tip: 에디터 설치하기}{5}{section*.8}
+\contentsline {paragraph}{T\kern -.1667em\lower .5ex\hbox {E}\kern -.125emX\spacefactor \@m {}Live}{4}{section*.4}
+\contentsline {paragraph}{ShareLaTeX}{4}{section*.5}
+\contentsline {paragraph}{Tip: 에디터 설치하기}{4}{section*.6}
 \contentsline {subsection}{\numberline {2.2}기본 사항}{5}{subsection.0.2.2}
-\contentsline {paragraph}{.tex 파일 생성부터 출력까지}{6}{section*.9}
-\contentsline {paragraph}{안녕, 세계!}{7}{section*.10}
-\contentsline {subparagraph}{document class}{8}{section*.11}
-\contentsline {subparagraph}{begin}{8}{section*.12}
-\contentsline {subparagraph}{package}{8}{section*.13}
-\contentsline {subsection}{\numberline {2.3}문제가 생기셨나요?}{9}{subsection.0.2.3}
+\contentsline {paragraph}{.tex 파일 생성부터 출력까지}{5}{section*.7}
+\contentsline {paragraph}{안녕, 세계!}{6}{section*.8}
+\contentsline {subparagraph}{document class}{7}{section*.9}
+\contentsline {subparagraph}{begin}{8}{section*.10}
+\contentsline {subparagraph}{package}{8}{section*.11}
+\contentsline {subsection}{\numberline {2.3}문제가 생기셨나요?}{8}{subsection.0.2.3}
 \contentsline {section}{\numberline {3}문서 작성 시작하기}{10}{section.0.3}
 \contentsline {subsection}{\numberline {3.1}예시 코드 구경하기}{10}{subsection.0.3.1}
 \contentsline {subsection}{\numberline {3.2}글의 구조}{12}{subsection.0.3.2}
@@ -26,34 +26,35 @@
 \contentsline {subsection}{\numberline {3.5}문제가 생기셨나요??}{13}{subsection.0.3.5}
 \contentsline {section}{\numberline {4}좀 더 구체적으로}{14}{section.0.4}
 \contentsline {subsection}{\numberline {4.1}documentclass에 대하여}{14}{subsection.0.4.1}
-\contentsline {paragraph}{oblivoir class}{15}{section*.17}
-\contentsline {paragraph}{다른 유용한 class들}{15}{section*.18}
+\contentsline {paragraph}{oblivoir class}{15}{section*.12}
+\contentsline {paragraph}{다른 유용한 class들}{15}{section*.13}
 \contentsline {subsection}{\numberline {4.2}유용한 package 알아보기}{15}{subsection.0.4.2}
-\contentsline {subsection}{\numberline {4.3}수식 작성하기}{16}{subsection.0.4.3}
-\contentsline {subsubsection}{\numberline {4.3.1}패키지 사용하기}{18}{subsubsection.0.4.3.1}
-\contentsline {subsubsection}{\numberline {4.3.2}입력 시작하기}{18}{subsubsection.0.4.3.2}
-\contentsline {paragraph}{짧은 수식 삽입하기}{18}{section*.19}
-\contentsline {paragraph}{긴 수식 삽입하기, 수식만 따로 삽입하기}{18}{section*.20}
-\contentsline {paragraph}{특별한 수식들}{18}{section*.21}
-\contentsline {paragraph}{}{18}{section*.22}
-\contentsline {subsubsection}{\numberline {4.3.3}다양한 기능}{18}{subsubsection.0.4.3.3}
-\contentsline {paragraph}{빈칸 띄우기}{19}{section*.23}
-\contentsline {paragraph}{글꼴 바꾸기}{19}{section*.24}
-\contentsline {paragraph}{벡터 표시, 밑줄 등 줄긋기}{19}{section*.25}
-\contentsline {paragraph}{열 맞춰 쓰기}{19}{section*.26}
-\contentsline {paragraph}{여러 줄 묶기}{19}{section*.27}
-\contentsline {subsection}{\numberline {4.4}표와 그림}{19}{subsection.0.4.4}
-\contentsline {subsubsection}{\numberline {4.4.1}표}{22}{subsubsection.0.4.4.1}
-\contentsline {paragraph}{표 그리기}{22}{section*.28}
-\contentsline {paragraph}{표 삽입하기}{22}{section*.29}
-\contentsline {paragraph}{}{22}{section*.30}
-\contentsline {subsubsection}{\numberline {4.4.2}그림}{22}{subsubsection.0.4.4.2}
-\contentsline {paragraph}{package 사용하기}{22}{section*.31}
-\contentsline {paragraph}{그림 삽입하기}{23}{section*.32}
-\contentsline {paragraph}{}{23}{section*.33}
-\contentsline {subsection}{\numberline {4.5}문제가 생기셨나요?}{23}{subsection.0.4.5}
-\contentsline {section}{\numberline {5}Appendix}{25}{section.0.5}
-\contentsline {subsection}{\numberline {5.1}documentclass}{25}{subsection.0.5.1}
-\contentsline {subsection}{\numberline {5.2}수식 모드 공백 기호}{26}{subsection.0.5.2}
-\contentsline {subsection}{\numberline {5.3}글 위, 아래 기호}{26}{subsection.0.5.3}
-\contentsline {subsection}{\numberline {5.4}떠다니는 개체 위치 결정하기}{26}{subsection.0.5.4}
+\contentsline {subsection}{\numberline {4.3}유용한 환경 알아보기}{16}{subsection.0.4.3}
+\contentsline {subsection}{\numberline {4.4}수식 작성하기}{17}{subsection.0.4.4}
+\contentsline {subsubsection}{\numberline {4.4.1}패키지 사용하기}{19}{subsubsection.0.4.4.1}
+\contentsline {subsubsection}{\numberline {4.4.2}입력 시작하기}{19}{subsubsection.0.4.4.2}
+\contentsline {paragraph}{짧은 수식 삽입하기}{19}{section*.14}
+\contentsline {paragraph}{긴 수식 삽입하기, 수식만 따로 삽입하기}{19}{section*.15}
+\contentsline {paragraph}{특별한 수식들}{19}{section*.16}
+\contentsline {paragraph}{}{19}{section*.17}
+\contentsline {subsubsection}{\numberline {4.4.3}다양한 기능}{19}{subsubsection.0.4.4.3}
+\contentsline {paragraph}{빈칸 띄우기}{20}{section*.18}
+\contentsline {paragraph}{글꼴 바꾸기}{20}{section*.19}
+\contentsline {paragraph}{벡터 표시, 밑줄 등 줄긋기}{20}{section*.20}
+\contentsline {paragraph}{열 맞춰 쓰기}{20}{section*.21}
+\contentsline {paragraph}{여러 줄 묶기}{20}{section*.22}
+\contentsline {subsection}{\numberline {4.5}표와 그림}{21}{subsection.0.4.5}
+\contentsline {subsubsection}{\numberline {4.5.1}표}{23}{subsubsection.0.4.5.1}
+\contentsline {paragraph}{표 그리기}{23}{section*.23}
+\contentsline {paragraph}{표 삽입하기}{23}{section*.24}
+\contentsline {paragraph}{}{23}{section*.25}
+\contentsline {subsubsection}{\numberline {4.5.2}그림}{23}{subsubsection.0.4.5.2}
+\contentsline {paragraph}{package 사용하기}{23}{section*.26}
+\contentsline {paragraph}{그림 삽입하기}{24}{section*.27}
+\contentsline {paragraph}{}{24}{section*.28}
+\contentsline {subsection}{\numberline {4.6}문제가 생기셨나요?}{24}{subsection.0.4.6}
+\contentsline {section}{\numberline {5}Appendix}{26}{section.0.5}
+\contentsline {subsection}{\numberline {5.1}documentclass}{26}{subsection.0.5.1}
+\contentsline {subsection}{\numberline {5.2}수식 모드 공백 기호}{27}{subsection.0.5.2}
+\contentsline {subsection}{\numberline {5.3}글 위, 아래 기호}{27}{subsection.0.5.3}
+\contentsline {subsection}{\numberline {5.4}떠다니는 개체 위치 결정하기}{27}{subsection.0.5.4}

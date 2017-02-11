@@ -38,6 +38,7 @@
     "tab:eg"
     "fig:eg"
     "subsec:mktab"
+    "sec:advanced_2-pic"
     "subsec:problem4"
     "text"))
  :latex)
